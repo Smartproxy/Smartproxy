@@ -1,4 +1,4 @@
-# smartproxy.io residential ips api
+# smartproxy.com residential ips api
 
 High quality residential HTTP(S) rotating proxies
 
