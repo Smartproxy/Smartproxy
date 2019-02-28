@@ -1,6 +1,7 @@
 # smartproxy.com residential IPs
 
 High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all over the globe
+<br><img src="https://smartproxy.com/wp-content/uploads/2018/12/Smartproxy-How-Proxies-Work.png">
 
 ## Features:
 <li>Country level targetting
@@ -9,8 +10,12 @@ High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all ove
 <li>Unlimited number of threads
 
 ## Getting started
-To utilize residential proxies you will require smartproxy account, register here -> https://dashboard.smartproxy.com
-<br>You will need an active subscription too. If you're interested in testing it out first - our plans Starter and above have 3 day money back policy -> https://smartproxy.com/pricing
+<br><img src="https://smartproxy.com/wp-content/uploads/2019/02/order-smartproxy.png">
+<br> 1. To utilize residential proxies you will require smartproxy account, register here -> https://dashboard.smartproxy.com
+<br> 2. You will need an active subscription too. If you're interested in testing it out first - our plans Starter and above have 3 day money back policy -> https://smartproxy.com/pricing
+<br> 3. Once you purchase it you will get access to whole pool, regardless of plan!
+<br><br><center>Accepted payment methods:
+<br><img src="https://smartproxy.com/wp-content/uploads/2018/09/payment-methods-smartproxy-residential-rotating-proxies.svg" alt="" width="250" height="50"></center>
 
 ## Contacts
 Email - sales@smartproxy.com
