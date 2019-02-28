@@ -8,7 +8,7 @@ High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all ove
 <li>Rotating IPs
 <li>Unlimited number of threads
 
-<h3> Getting started</h3>
+<br><h3> Getting started</h3>
 To utilize residential proxies you will require smartproxy account, register here -> https://dashboard.smartproxy.com
 <br>You will need an active subscription too. If you're interested in testing it out first, our plans Starter and above have 3 day money back policy -> https://smartproxy.com/pricing
 
