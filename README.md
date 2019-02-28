@@ -13,7 +13,8 @@ To utilize residential proxies you will require smartproxy account, register her
 <br>You will need an active subscription too. If you're interested in testing it out first, our plans Starter and above have 3 day money back policy -> https://smartproxy.com/pricing
 
 ## Contacts
+<br>Email - sales@smartproxy.com
 <a href="https://smartproxy.com">Live chat 24/7</a>
 <br><a href="https://join.skype.com/invite/bZDHw4NZg2G9">Skype</a>
 <br><a href="https://t.me/smartproxy_com">Telegram</a>
-<br>Email - sales@smartproxy.com
+
