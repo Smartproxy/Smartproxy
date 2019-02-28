@@ -6,7 +6,7 @@ public class ProxyTest
 { 
    public static void main(String[] args) throws Exception 
    { 
-      InetSocketAddress proxyAddress = new InetSocketAddress("gate.smartproxy.io", 7000); // Set proxy IP/port. 
+      InetSocketAddress proxyAddress = new InetSocketAddress("gate.smartproxy.com", 7000); // Set proxy IP/port. 
       Proxy proxy = new Proxy(Proxy.Type.HTTP, proxyAddress); 
       URL url = new URL("http://ipinfo.io/ip"); //enter target URL 
       Authenticator authenticator = new Authenticator() { 
