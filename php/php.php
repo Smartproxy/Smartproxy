@@ -1,7 +1,7 @@
 <?php 
 $username = 'username'; 
 $password = 'password'; 
-$proxy = 'gate.smartproxy.io:7000'; 
+$proxy = 'gate.smartproxy.com:7000'; 
 $target = curl_init('https://ipinfo.io/'); 
 curl_setopt($target, CURLOPT_RETURNTRANSFER, 1); 
 curl_setopt($target, CURLOPT_PROXY, $proxy); 
