@@ -1,4 +1,4 @@
-# smartproxy.com residential IPs
+# <img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="" width="150" height="15"> residential IPs
 
 High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all over the globe
 <br><img src="https://smartproxy.com/wp-content/uploads/2018/12/Smartproxy-How-Proxies-Work.png">
