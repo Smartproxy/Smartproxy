@@ -1,7 +1,7 @@
 require "uri" 
 require 'net/http' 
 
-proxy_host = 'gate.smartproxy.io' 
+proxy_host = 'gate.smartproxy.com' 
 proxy_port = 7000 
 proxy_user = 'username' 
 proxy_pass = 'password' 
