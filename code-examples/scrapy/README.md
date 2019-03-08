@@ -2,7 +2,7 @@
 
 ### Disclaimer
 
-The following example is a simple script showing how to utilize SmartProxy with Scrapy.
+The following example is a simple script showing how to utilize Smartproxy with Scrapy.
 We suggest to reseach [Scrapy](https://docs.scrapy.org/en/latest/) documentation in order to continue development with this tool.
 
 ### Prerequisites
