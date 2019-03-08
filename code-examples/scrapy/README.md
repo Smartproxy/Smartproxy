@@ -1,6 +1,4 @@
-## <img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="" width="200" height="50"> <br>Rotating residential IPs
-
-High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all over the globe
+## <img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="" width="200" height="50"> 
 
 ### Disclaimer
 
@@ -18,22 +16,23 @@ Once you get Scrapy up and running if you have not yet, make sure that you creat
 ```
 scrapy startproject yourprojectname
 ```
+<img src="https://content.screencast.com/users/JohanSP/folders/Jing/media/f974b1de-dc9c-4d53-9d43-9215f8742dc9/startproject.png">
 
 When project directory is setup, you can now copy our test spider code: 
 
-```
-1. Create smartproxy_spider.py file in .\yourprojectname\spiders\ directory.
-2. Copy the code from our repository.
-3. Run the script using "scrapy crawl smartproxy" command.
-```
 
-You can find the repository itself [here](https://github.com/Smartproxy/Smartproxy/blob/master/code-examples/scrapy/smartproxy_spider.py)
+1. Create smartproxy_spider.py file in .\yourprojectname\yourprojectname\spiders\ directory.
+2. Copy the code from our [repository](https://github.com/Smartproxy/Smartproxy/blob/master/code-examples/scrapy/smartproxy_spider.py).
+3. Run the script using `scrapy crawl smartproxy` command.
+<img src="https://content.screencast.com/users/JohanSP/folders/Jing/media/79c69577-0034-40e8-b1e5-161cad99031a/2019-03-08_1627.png">
 
 ### How to check if it works?
 
 As mentioned this script only sends a basic request to a certain website to check what IP address is currently visiting it.
 
 If you done all the steps correctly, you should see the result as `{'ip': '\nYour Public IPv4 is: XX.XX.XX.XX'}` along with other actions performed by Scrapy in the Terminal window.
+
+<img src="https://content.screencast.com/users/JohanSP/folders/Jing/media/e9be31c9-2de5-46be-a754-866f9237f9f7/2019-03-08_1630.png">
 
 ## How to get started with Smartproxy?
 <br><img src="https://smartproxy.com/wp-content/uploads/2019/02/order-smartproxy.png">
