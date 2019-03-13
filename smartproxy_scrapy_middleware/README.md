@@ -25,7 +25,6 @@ When project directory is setup, you can deploy our middleware:
 3. Download our proxy middleware using the following command: `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/smartproxy_scrapy_middleware/smartproxy_auth.py > smartproxy_auth.py`
 4. You should now see your project folder populated with *smartproxy_auth.py* file.
 
-
 ### Configuration
 
 To start using our middleware for proxy authentication, you'll need to configure settings for our proxy authentication.
