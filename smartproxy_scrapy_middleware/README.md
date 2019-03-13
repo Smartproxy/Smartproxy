@@ -32,8 +32,7 @@ To start using our middleware for proxy authentication, you'll need to configure
 Doing so is very simple:
 
 1. Using file manager, navigate to your project folder, you should see *settings.py* file located at the bottom of the directory.
-2. Edit the *settings.py* file and add the following properties at the bottom:
-
+2. Edit the *settings.py* file using an editor of your choice and add the following properties at the bottom:
 ```
 DOWNLOADER_MIDDLEWARES = {
     'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': 110,
