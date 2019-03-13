@@ -21,9 +21,9 @@ scrapy startproject yourprojectname
 When project directory is setup, you can deploy our middleware:
 
 1. Open Terminal window.
-2. Navigate to the root of your project folder using `cd yourprojectname`
-3. Download our middleware using the following command: `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/smartproxy_scrapy_middleware/smartproxy_auth.py > smartproxy_auth.py`
-4. You should now see your root directory populated with *smartproxy_auth.py* file.
+2. Navigate to the main directory of your project folder using `cd yourprojectname`
+3. Download our proxy middleware using the following command: `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/smartproxy_scrapy_middleware/smartproxy_auth.py > smartproxy_auth.py`
+4. You should now see your project folder populated with *smartproxy_auth.py* file.
 
 
 ### Configuration
