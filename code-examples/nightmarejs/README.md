@@ -5,13 +5,9 @@
 The following example is a simple script showing how to utilize Smartproxy with Nightmare.js.
 We suggest to reseach [Nightmare.js](https://github.com/segmentio/nightmare#api) documentation in order to continue development with this tool.
 
-### Prerequisites
-
-To start working with Nightmare.js you will need [Node.js](https://nodejs.org/en/)
-
 ### Installation
 
-1. Once you have your project directory ready for development with Node.js and Nigtmare.js, open it using Terminal/Command prompt utilising `cd` command.
+1. Once you have your project directory ready for development with Nigtmare.js, open it using Terminal/Command prompt utilising `cd` command.
 2. After that, execute the following command to download our proxy setup example file:
 
 `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/code-examples/nightmarejs/nightmare.js > nightmare.js`
