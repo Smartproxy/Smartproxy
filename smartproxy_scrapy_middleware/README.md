@@ -45,7 +45,7 @@ SMARTPROXY_ENDPOINT = 'gate.smartproxy.com' ## Endpoint you'd like to use
 SMARTPROXY_PORT = '7000' ## Port of the endpoint you are using.
 ```
 3. In `DOWNLOADER_MIDDLEWARES` change `yourprojectname` line to the name of your project.
-4. Make sure that you enter your details account details as well as proxy details withing punctuation marks (''). 
+4. Make sure that you enter your details account details as well as proxy details within punctuation marks (''). 
 5. Save the file.
 
 Once all that is done, all of your spiders will be going through our proxies, if you are not sure how to setup a spider, take a look [here](https://docs.scrapy.org/en/latest/intro/tutorial.html#our-first-spider)
