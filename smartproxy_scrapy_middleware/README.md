@@ -25,6 +25,7 @@ When project directory is setup, you can deploy our middleware:
 3. Download our proxy middleware using the following command: `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/smartproxy_scrapy_middleware/smartproxy_auth.py > smartproxy_auth.py`
 <img src="https://file2.api.drift.com/drift-prod-file-uploads/5fdb%2F5fdb91ab7c45ffb79ff46e5f37fa6c2b/2.png?mimeType=image%2Fpng">
 4. You should now see your project folder populated with *smartproxy_auth.py* file.
+<img src="https://file2.api.drift.com/drift-prod-file-uploads/94bb%2F94bb73fc522c281e170a6cc81a077ab5/3.png?mimeType=image%2Fpng">
 
 ### Configuration
 
@@ -45,7 +46,10 @@ SMARTPROXY_PASSWORD = 'password' ## Password for your user
 SMARTPROXY_ENDPOINT = 'gate.smartproxy.com' ## Endpoint you'd like to use
 SMARTPROXY_PORT = '7000' ## Port of the endpoint you are using.
 ```
+<img src="https://file2.api.drift.com/drift-prod-file-uploads/b7b3%2Fb7b36a1e9a1556fb7b361ed17144159a/4.png?mimeType=image%2Fpng">
+<img src="https://file2.api.drift.com/drift-prod-file-uploads/348f%2F348f7143ae28ad224fa3a46c2dc7716e/5.png?mimeType=image%2Fpng">
 3. In `DOWNLOADER_MIDDLEWARES` change `yourprojectname` line to the name of your project.
+<img src="https://file2.api.drift.com/drift-prod-file-uploads/87d4%2F87d428d4f2d47e29f3e986e109005d26/6.png?mimeType=image%2Fpng">
 4. Make sure that you enter your details account details as well as proxy details within punctuation marks (''). 
 5. Save the file.
 
