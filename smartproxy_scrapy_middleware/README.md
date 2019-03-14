@@ -52,6 +52,7 @@ SMARTPROXY_PORT = '7000' ## Port of the endpoint you are using.
 3. In `DOWNLOADER_MIDDLEWARES` change `yourprojectname` line to the name of your project.
 
 <img src="https://file2.api.drift.com/drift-prod-file-uploads/87d4%2F87d428d4f2d47e29f3e986e109005d26/6.png?mimeType=image%2Fpng">
+
 4. Make sure that you enter your details account details as well as proxy details within punctuation marks (''). 
 5. Save the file.
 
