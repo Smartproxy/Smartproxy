@@ -41,7 +41,7 @@ Username and password:
 auth = requests.auth.HTTPProxyAuth('username','password') # Your username and password for proxy authentication
 ```
 
-<img src="https://i.imgur.com/3s0zVtG.png">
+<img src="https://i.imgur.com/wbTPbx5.png">
 
 ### Usage
 
