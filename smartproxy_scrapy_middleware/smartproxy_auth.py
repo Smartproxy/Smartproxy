@@ -7,14 +7,15 @@ class ProxyMiddleware(object):
         return cls(crawler.settings)
 
     def __init__(self, settings):
-        self.user = settings.get('SMARTPROXY_USER').encode('UTF8')
-        self.password = settings.get('SMARTPROXY_PASSWORD').encode('UTF8')
+        self.user = settings.get('SMARTPROXY_USER')
+        self.password = settings.get('SMARTPROXY_PASSWORD')
         self.endpoint = settings.get('SMARTPROXY_ENDPOINT')
         self.port = settings.get('SMARTPROXY_PORT')
 
     def process_request(self, request, spider):
 
-        user_credentials = self.user + b":" + self.password
+        user_credentials = '{user}:{passw}'.format(user=self.user, passw=self.password)
+        basic_authentication = 'Basic ' + base64.b64encode(user_credentials.encode()).decode()
         host = 'http://{endpoint}:{port}'.format(endpoint=self.endpoint, port=self.port)
         request.meta['proxy'] = host
-        request.headers['Authorization'] = 'Basic {creds}'.format(creds=user_credentials)
+        request.headers['Proxy-Authorization'] = basic_authentication
