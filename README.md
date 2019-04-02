@@ -1,7 +1,7 @@
 ## <img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="" width="200" height="50"> <br>Rotating residential IPs
 
 High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all over the globe
-<br><img src="https://smartproxy.com/wp-content/uploads/2018/12/Smartproxy-How-Proxies-Work.png">
+<br><img src="https://smartproxy.com/wp-content/uploads/2019/04/How-Smartproxy-Proxy-network-Works.svg">
 
 ## Features:
 <li>Country level targetting
