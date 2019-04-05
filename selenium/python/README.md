@@ -28,13 +28,16 @@ Once you have all the prerequisites ready, create your project folder:
 ```
 mkdir your_project
 ```
+<img src="https://i.imgur.com/6US2PJs.png">
 
 When project directory is setup, you download our script for proxy authentication:
 
 1. Open Terminal/Command Prompt window.
 2. Navigate to the main directory of your project folder using `cd your_project`
 3. Download our proxy middleware using the following command: `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/selenium/python/selenium_python.py > selenium_python.py`
+<img src="https://i.imgur.com/PBHO2wF.png">
 4. You should now see your project folder populated with *selenium_python.py* file.
+
 
 ### Configuration
 
@@ -51,7 +54,7 @@ You can get information for `HOSTNAME` and `PORT` on our [users dashboard pannel
 
 The configuration guidelines for `DRIVER` and `DRIVER_PATH` can be found in the code itself.
 
-
+<img src="https://i.imgur.com/JrexozP.png">
 
 ### Usage
 
@@ -99,9 +102,9 @@ If you want to run a quick test with our proxy configuration, you can download o
 ```
 curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/selenium/python/example.py > example.py
 ```
-
+<img src="https://i.imgur.com/5LCa6de.png">
 In order to run it, simply execute `python example.py` command while in your project directory.
-
+<img src="https://i.imgur.com/BFzywfC.png">
 *Note that the `example.py` file should be in the same directory as `selenium_python.py` file.*
 
 ## How to get started with Smartproxy?
