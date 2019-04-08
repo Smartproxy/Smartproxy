@@ -2,8 +2,10 @@
 
 High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all over the globe
 <br>[<img src="https://smartproxy.com/wp-content/uploads/2019/04/How-Smartproxy-Proxy-network-Works.svg">](https://smartproxy.com/how-it-works)
+<br>
+<br>
 
-## Features <img align="right" height="275" src="https://media.giphy.com/media/jQyXHJ6HN33XoJpAry/giphy.gif">
+## Features <img align="right" src="https://media.giphy.com/media/jQyXHJ6HN33XoJpAry/giphy.gif">
 
 <li>Country level targetting
 <li>Sticky IPs
