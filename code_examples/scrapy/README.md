@@ -22,7 +22,7 @@ When project directory is setup, you can now copy our test spider code:
 
 
 1. Create smartproxy_spider.py file in .\yourprojectname\yourprojectname\spiders\ directory.
-2. Copy the code from our [repository](https://github.com/Smartproxy/Smartproxy/blob/master/code-examples/scrapy/smartproxy_spider.py).
+2. Copy the code from our [repository](https://github.com/Smartproxy/Smartproxy/blob/master/code_examples/scrapy/smartproxy_spider.py).
 3. Run the script using `scrapy crawl smartproxy` command.
 <img src="https://content.screencast.com/users/JohanSP/folders/Jing/media/79c69577-0034-40e8-b1e5-161cad99031a/2019-03-08_1627.png">
 
