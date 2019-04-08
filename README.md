@@ -4,12 +4,12 @@ High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all ove
 <br>[<img src="https://smartproxy.com/wp-content/uploads/2019/04/How-Smartproxy-Proxy-network-Works.svg">](https://smartproxy.com/how-it-works)
 
 ## Features
+<img align="right" src="https://media.giphy.com/media/jQyXHJ6HN33XoJpAry/giphy.gif">
 <li>Country level targetting
 <li>Sticky IPs
 <li>Rotating IPs
 <li>Unlimited number of threads
 <li>24/7 support
-<img align="right" src="https://media.giphy.com/media/jQyXHJ6HN33XoJpAry/giphy.gif">
 
 ## Getting started
 <br>[<img src="https://smartproxy.com/wp-content/uploads/2019/04/How-to-buy-Smartproxy-plans-now.svg">](https://smartproxy.com/pricing)
