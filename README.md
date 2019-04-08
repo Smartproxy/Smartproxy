@@ -9,6 +9,7 @@ High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all ove
 <li>Rotating IPs
 <li>Unlimited number of threads
 <li>24/7 support
+   <br><img src="https://media.giphy.com/media/jQyXHJ6HN33XoJpAry/giphy.gif">
 
 ## Getting started
 <br>[<img src="https://smartproxy.com/wp-content/uploads/2019/04/How-to-buy-Smartproxy-plans-now.svg">](https://smartproxy.com/pricing)
