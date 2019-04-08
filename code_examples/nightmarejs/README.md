@@ -10,7 +10,7 @@ We suggest to reseach [Nightmare.js](https://github.com/segmentio/nightmare#api)
 1. Once you have your project directory ready for development with Nigtmare.js, open it using Terminal/Command prompt utilising `cd` command.
 2. After that, execute the following command to download our proxy setup example file:
 
-`curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/code-examples/nightmarejs/nightmare.js > nightmare.js`
+`curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/code_examples/nightmarejs/nightmare.js > nightmare.js`
 
 <img src="https://i.imgur.com/joNFPlR.png">
 
