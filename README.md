@@ -5,20 +5,14 @@ High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all ove
 <br>
 <br>
 
-## Features <img align="right" src="https://media.giphy.com/media/jQyXHJ6HN33XoJpAry/giphy.gif">
-
+## Features 
 <li>Country level targetting
 <li>Sticky IPs
 <li>Rotating IPs
 <li>Unlimited number of threads
 <li>24/7 support
 <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br><br>
-  <br>
+<a href="https://gifyu.com/image/3olZ"><img src="https://s2.gifyu.com/images/20190408_160415.gif" alt="20190408_160415.gif" border="0" /></a>
   
 ## Getting started
 <br>[<img src="https://smartproxy.com/wp-content/uploads/2019/04/How-to-buy-Smartproxy-plans-now.svg">](https://smartproxy.com/pricing)
