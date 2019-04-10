@@ -15,13 +15,6 @@ High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all ove
   </a>
 </p>
 
-## Features 
-- Country level targetting
-- Sticky IPs
-- Rotating IPs
-- Unlimited number of threads
-- [24/7 support](#contacts)
-
 <a href="https://smartproxy.com/proxy-list"><img src="https://s2.gifyu.com/images/20190408_160415.gif" alt="20190408_160415.gif" border="0" /></a>
   
 ## Getting started
