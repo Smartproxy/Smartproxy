@@ -20,7 +20,7 @@ High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all ove
 <li>Sticky IPs
 <li>Rotating IPs
 <li>Unlimited number of threads
-<li> <a href="https://github.com/Smartproxy/Smartproxy/blob/master/README.md#contacts"> 24/7 support </a>
+<li>[24/7 support](#contacts)
 <br>
   <br>
 <a href="https://smartproxy.com/proxy-list"><img src="https://s2.gifyu.com/images/20190408_160415.gif" alt="20190408_160415.gif" border="0" /></a>
