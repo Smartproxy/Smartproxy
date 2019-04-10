@@ -1,6 +1,6 @@
 <p align="center">
-  <a>
-    <img href="https://smartproxy.com/" src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="" width="200" height="50">
+  <a href="https://smartproxy.com/">
+    <img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="" width="200" height="50">
   </a>
 </p>
 
@@ -8,9 +8,9 @@
   The Best Residential Proxy Network
 </h2>
 
-<p align="center">
+<p align="center" href="https://smartproxy.com/how-it-works">
 High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all over the globe
-<br><img href="https://smartproxy.com/how-it-works" src="https://smartproxy.com/wp-content/uploads/2019/04/How-Smartproxy-Proxy-network-Works.svg">
+<img src="https://smartproxy.com/wp-content/uploads/2019/04/How-Smartproxy-Proxy-network-Works.svg">
 </p>
 
 ## Features 
