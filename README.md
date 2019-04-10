@@ -1,9 +1,17 @@
-## <img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="" width="200" height="50"> <br>Rotating residential IPs
+<p align="center">
+  <a>
+    <img href="https://smartproxy.com/" src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="" width="200" height="50">
+  </a>
+</p>
 
+<h2 align="center">
+  The Best Residential Proxy Network
+</h2>
+
+<p align="center">
 High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all over the globe
-<br>[<img src="https://smartproxy.com/wp-content/uploads/2019/04/How-Smartproxy-Proxy-network-Works.svg">](https://smartproxy.com/how-it-works)
-<br>
-<br>
+<br><img href=https://smartproxy.com/how-it-works src="https://smartproxy.com/wp-content/uploads/2019/04/How-Smartproxy-Proxy-network-Works.svg">
+</p>
 
 ## Features 
 <li>Country level targetting
