@@ -22,7 +22,7 @@ Once you have all the prerequisites ready, enter your project folder or create a
 
 When project directory is setup, you can download our script:
 
-`curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/code_examples/beautifulsoup/beautifulsoup.py > beautifulsoup.py`
+`curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/beautifulsoup/beautifulsoup.py > beautifulsoup.py`
 
 <img src="https://i.imgur.com/KrvorTW.png">
 
