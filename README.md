@@ -16,10 +16,10 @@ High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all ove
 </p>
 
 ## Features 
-<li>Country level targetting
-<li>Sticky IPs
-<li>Rotating IPs
-<li>Unlimited number of threads
+- Country level targetting
+- Sticky IPs
+- Rotating IPs
+- Unlimited number of threads
 - [24/7 support](#contacts)
 <br>
   <br>
