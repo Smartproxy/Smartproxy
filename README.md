@@ -8,9 +8,11 @@
   The Best Residential Proxy Network
 </h2>
 
-<p align="center" href="https://smartproxy.com/how-it-works">
+<p align="center">
 High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all over the globe
-<img src="https://smartproxy.com/wp-content/uploads/2019/04/How-Smartproxy-Proxy-network-Works.svg">
+  <a href="https://smartproxy.com/how-it-works">
+    <img src="https://smartproxy.com/wp-content/uploads/2019/04/How-Smartproxy-Proxy-network-Works.svg">
+  </a>
 </p>
 
 ## Features 
