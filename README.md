@@ -38,3 +38,6 @@ Email - sales@smartproxy.com
 <br><a href="https://join.skype.com/invite/bZDHw4NZg2G9">Skype</a>
 <br><a href="https://t.me/smartproxy_com">Telegram</a>
 
+## License
+
+All code is released under [MIT License](https://github.com/Smartproxy/Smartproxy/blob/master/LICENSE)
