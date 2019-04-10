@@ -16,6 +16,13 @@ High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all ove
 </p>
 
 <a href="https://smartproxy.com/proxy-list"><img src="https://s2.gifyu.com/images/20190408_160415.gif" alt="20190408_160415.gif" border="0" /></a>
+
+## List of contents
+
+- [Getting started](#getting-started)
+- [Integrations](#integrations)
+- [License](#license)
+- [Contacts](#contacts)
   
 ## Getting started
 <br>[<img src="https://smartproxy.com/wp-content/uploads/2019/04/How-to-buy-Smartproxy-plans-now.svg">](https://dashboard.smartproxy.com/register)
@@ -25,12 +32,26 @@ High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all ove
 <br><br><center>Accepted payment methods:
 <br>[<img src="https://smartproxy.com/wp-content/uploads/2018/09/payment-methods-smartproxy-residential-rotating-proxies.svg" alt="" width="250" height="50">](https://smartproxy.com/pricing)</center>
 
+## Integrations
+
+- [Beautiful Soup](https://github.com/Smartproxy/Smartproxy/tree/master/beautifulsoup)
+- [C#](https://github.com/Smartproxy/Smartproxy/tree/master/csharp)
+- [Java](https://github.com/Smartproxy/Smartproxy/tree/master/java)
+- [Nightmare.js](https://github.com/Smartproxy/Smartproxy/tree/master/nightmarejs)
+- [Node.js](https://github.com/Smartproxy/Smartproxy/tree/master/nodejs)
+- [PHP](https://github.com/Smartproxy/Smartproxy/tree/master/php)
+- [Ruby](https://github.com/Smartproxy/Smartproxy/tree/master/scrapy)
+- [Scrapy](https://github.com/Smartproxy/Smartproxy/tree/master/scrapy)
+- [Scrapy Middleware](https://github.com/Smartproxy/Smartproxy/tree/master/scrapy_middleware)
+- [Selenium](https://github.com/Smartproxy/Smartproxy/tree/master/selenium/)
+- [Bash](https://github.com/Smartproxy/Smartproxy/tree/master/shell)
+
+## License
+
+All code is released under [MIT License](https://github.com/Smartproxy/Smartproxy/blob/master/LICENSE)
+
 ## Contacts
 Email - sales@smartproxy.com
 <br><a href="https://smartproxy.com">Live chat 24/7</a>
 <br><a href="https://join.skype.com/invite/bZDHw4NZg2G9">Skype</a>
 <br><a href="https://t.me/smartproxy_com">Telegram</a>
-
-## License
-
-All code is released under [MIT License](https://github.com/Smartproxy/Smartproxy/blob/master/LICENSE)
