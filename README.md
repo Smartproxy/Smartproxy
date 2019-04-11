@@ -33,7 +33,7 @@ We provide rotating proxies which are changing with each new request or sticky I
 
 ## How does it work
 
-Using smartproxy is fairly simple - select in the dashboard if you want **rotating** or **sticky** port (currently provides IP up to 10min) and if you want **random IP** or target **specific country/city** and we will provide you relevant endpoint in domain:port format.
+Using smartproxy is fairly simple - in the dashboard you will be able to select which port you want: **rotating** or **sticky** (currently provides IP up to 10min) and whether you want a **random IP** (any country) or target **specific country/city** and we will provide you relevant endpoint in domain:port format.
 
 <br>*See example below with US rotating port specified (in the example whitelisted IP is used instead of standard username:password authorization)*
   
