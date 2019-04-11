@@ -15,14 +15,29 @@ High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all ove
   </a>
 </p>
 
-<a href="https://smartproxy.com/proxy-list"><img src="https://s2.gifyu.com/images/20190408_160415.gif" alt="20190408_160415.gif" border="0" /></a>
+
 
 ## List of contents
 
+- [What is smartproxy](#what-is-smartproxy)
+- [How does it work](#how-does-it-work)
 - [Getting started](#getting-started)
 - [Integrations](#integrations)
 - [License](#license)
 - [Contacts](#contacts)
+ 
+## What is smartproxy
+Smartproxy is a rotating residential proxy network which enables users to gather any data from the web using a pool of over 10 million proxies.
+
+We provide rotating proxies which are changing with each new request or sticky IP sessions to keep your session for a longer period (10 minutes). How does it work? [Check here](https://smartproxy.com/questions/how-does-it-work)
+
+## How does it work
+
+Using smartproxy is fairly simple - select in the dashboard if you want **rotating** or **sticky** port (currently provides IP up to 10min) and if you want **random IP** or target **specific country/city** and we will provide you relevant endpoint in domain:port format.
+
+<br>*See example below with US rotating port specified (in the example whitelisted IP is used instead of standard username:password authorization)*
+  
+  <a href="https://smartproxy.com/proxy-list"><img src="https://s2.gifyu.com/images/20190408_160415.gif" alt="20190408_160415.gif" border="0" /></a>
   
 ## Getting started
 <br>[<img src="https://smartproxy.com/wp-content/uploads/2019/04/How-to-buy-Smartproxy-plans-now.svg">](https://dashboard.smartproxy.com/register)
