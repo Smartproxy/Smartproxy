@@ -22,7 +22,7 @@ public class Example {
 		proxy.setHttpProxy(sHttpProxy);
 
 		GeckoDriverService service =new GeckoDriverService.Builder()
-								  .usingDriverExecutable(new File("C:\\Users\\Piero Guzman\\eclipse-workspace\\java\\driver\\geckodriver.exe"))
+								  .usingDriverExecutable(new File("PATH TO WEBDRIVER"))
 								  .usingAnyFreePort()
 								  .usingAnyFreePort()
 								  .build();
