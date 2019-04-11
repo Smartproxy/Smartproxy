@@ -27,7 +27,7 @@ High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all ove
 ## Getting started
 <br>[<img src="https://smartproxy.com/wp-content/uploads/2019/04/How-to-buy-Smartproxy-plans-now.svg">](https://dashboard.smartproxy.com/register)
 <br> 1. [Register your smartproxy account](https://dashboard.smartproxy.com/register)
-<br> 2. [Pick a plan](https://smartproxy.com/pricing)
+<br> 2. [Pick a plan](https://dashboard.smartproxy.com/billing)
 <br> 3. ???
 <br> 4. 10m+ residential IPs in your pocket
 
