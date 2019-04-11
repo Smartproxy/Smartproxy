@@ -26,11 +26,13 @@ High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all ove
   
 ## Getting started
 <br>[<img src="https://smartproxy.com/wp-content/uploads/2019/04/How-to-buy-Smartproxy-plans-now.svg">](https://dashboard.smartproxy.com/register)
-<br> 1. To utilize residential proxies you will require smartproxy account, register here -> https://dashboard.smartproxy.com/register
-<br> 2. You will need an active subscription too. If you're interested in testing it out first - our plans Starter and above have 3 day money back policy -> https://smartproxy.com/pricing
-<br> 3. Once you purchase it you will get access to whole pool, regardless of plan!
+<br> 1. [Register your smartproxy account](https://dashboard.smartproxy.com/register)
+<br> 2. [Pick a plan](https://smartproxy.com/pricing)
+<br> 3. ???
+<br> 4. 10m+ residential IPs in your pocket
+
 <br><br><center>Accepted payment methods:
-<br>[<img src="https://smartproxy.com/wp-content/uploads/2018/09/payment-methods-smartproxy-residential-rotating-proxies.svg" alt="" width="250" height="50">](https://smartproxy.com/pricing)</center>
+[<img src="https://smartproxy.com/wp-content/uploads/2018/09/payment-methods-smartproxy-residential-rotating-proxies.svg" alt="" width="250" height="50">](https://smartproxy.com/pricing)</center>
 
 ## Integrations
 
