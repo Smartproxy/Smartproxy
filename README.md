@@ -31,8 +31,8 @@ High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all ove
 <br> 3. ???
 <br> 4. 10m+ residential IPs in your pocket
 
-<br><br><center>Accepted payment methods:
-[<img src="https://smartproxy.com/wp-content/uploads/2018/09/payment-methods-smartproxy-residential-rotating-proxies.svg" alt="" width="250" height="50">](https://smartproxy.com/pricing)</center>
+<br><center>Accepted payment methods:
+<br>[<img src="https://smartproxy.com/wp-content/uploads/2018/09/payment-methods-smartproxy-residential-rotating-proxies.svg" alt="" width="250" height="50">](https://smartproxy.com/pricing)</center>
 
 ## Integrations
 
