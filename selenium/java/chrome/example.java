@@ -24,7 +24,7 @@ public class Example {
 		proxy.setHttpProxy(sHttpProxy);
 		
 		ChromeDriverService service = new ChromeDriverService.Builder()
-		                            .usingDriverExecutable(new File("C:\\Users\\Piero Guzman\\eclipse-workspace\\java\\driver\\chromedriver.exe"))
+		                            .usingDriverExecutable(new File("PATH TO WEBDRIVER"))
 		                            .usingAnyFreePort()
 		                            .build();
 		ChromeOptions options = new ChromeOptions();
