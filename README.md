@@ -7,7 +7,9 @@
 <img src="https://i.imgur.com/DuOBTX5.png" alt="Smartproxy discount" width="400" height="100">
 </p>
 <p align="center">
-  Click [HERE](#limited-time-promotion) for more information!
+  
+  [Click here for more information!](#limited-time-promotion)
+  
 </p>
 <h2 align="center">
   The Best Residential Proxy Network
@@ -79,7 +81,7 @@ Email - sales@smartproxy.com
 
 ## Limited Time Promotion
 
-1. Star our [Github repository](https://github.com/Smartproxy/Smartproxy/)
-<img src="https://i.imgur.com/3F8smIy.png">
-2. If you have not yet, [register your smartproxy account](https://dashboard.smartproxy.com/register).
-3. Write an email to help@smartproxy.com with your Github username and your smartproxy account email.
+<br> 1. Star our [Github repository](https://github.com/Smartproxy/Smartproxy/)
+<br> <img src="https://i.imgur.com/3F8smIy.png">
+<br> 2. If you have not yet, [register your smartproxy account](https://dashboard.smartproxy.com/register).
+<br> 3. Write an email to help@smartproxy.com with your Github username and your smartproxy account email.
