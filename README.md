@@ -76,6 +76,7 @@ Email - sales@smartproxy.com
 
 ## Limited Time Promotion
 
+<br> Follow these steps to claim your discount:
 <br> 1. Star our [Github repository](https://github.com/Smartproxy/Smartproxy/)
 <br> <img src="https://i.imgur.com/3F8smIy.png">
 <br> 2. If you have not yet, [register your smartproxy account](https://dashboard.smartproxy.com/register).
