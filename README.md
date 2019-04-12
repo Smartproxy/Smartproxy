@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Smartproxy/Smartproxy#limited-time-promotion">
-    <img src="https://i.imgur.com/DuOBTX5.png" alt="Smartproxy discount" width="400" height="100">
+    <img src="https://i.imgur.com/UtycWhe.jpg" alt="Smartproxy discount" width="400" height="100">
   </a>
 </p>
 <p align="center">
