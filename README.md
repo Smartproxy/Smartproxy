@@ -3,16 +3,9 @@
     <img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="Smartproxy logo" width="200" height="50">
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/Smartproxy/Smartproxy#limited-time-promotion">
-    <img src="https://i.imgur.com/UtycWhe.jpg" alt="Smartproxy discount" width="400" height="100">
-  </a>
-</p>
-<p align="center">
-    <a href="https://github.com/Smartproxy/Smartproxy#limited-time-promotion">
-        Click here for more information!
-    </a>
-</p>
+
+[<img src="https://i.imgur.com/dMCdcoI.jpg">](https://github.com/Smartproxy/Smartproxy#limited-time-promotion)
+
 <h2 align="center">
   The Best Residential Proxy Network
 </h2>
