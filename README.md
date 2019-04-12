@@ -4,12 +4,14 @@
   </a>
 </p>
 <p align="center">
-<img src="https://i.imgur.com/DuOBTX5.png" alt="Smartproxy discount" width="400" height="100">
+  <a href="https://github.com/Smartproxy/Smartproxy#limited-time-promotion">
+    <img src="https://i.imgur.com/DuOBTX5.png" alt="Smartproxy discount" width="400" height="100">
+  </a>
 </p>
 <p align="center">
-  
-  [Click here for more information!](#limited-time-promotion)
-  
+    <a href="https://github.com/Smartproxy/Smartproxy#limited-time-promotion">
+        Click here for more information!
+    </a>
 </p>
 <h2 align="center">
   The Best Residential Proxy Network
