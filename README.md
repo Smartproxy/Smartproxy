@@ -3,7 +3,12 @@
     <img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="Smartproxy logo" width="200" height="50">
   </a>
 </p>
-
+<p align="center">
+<img src="https://i.imgur.com/DuOBTX5.png" alt="Smartproxy discount" width="400" height="100">
+</p>
+<p align="center">
+  Click [HERE](#limited-time-promotion) for more information!
+</p>
 <h2 align="center">
   The Best Residential Proxy Network
 </h2>
@@ -71,3 +76,10 @@ Email - sales@smartproxy.com
 <br><a href="https://smartproxy.com">Live chat 24/7</a>
 <br><a href="https://join.skype.com/invite/bZDHw4NZg2G9">Skype</a>
 <br><a href="https://t.me/smartproxy_com">Telegram</a>
+
+## Limited Time Promotion
+
+1. Star our [Github repository](https://github.com/Smartproxy/Smartproxy/)
+<img src="https://i.imgur.com/3F8smIy.png">
+2. If you have not yet, [register your smartproxy account](https://dashboard.smartproxy.com/register).
+3. Write an email to help@smartproxy.com with your Github username and your smartproxy account email.
