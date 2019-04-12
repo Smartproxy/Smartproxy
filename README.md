@@ -4,7 +4,7 @@
   </a>
 </p>
 
-[<img src="https://i.imgur.com/dMCdcoI.jpg">](https://github.com/Smartproxy/Smartproxy#limited-time-promotion)
+[<img src="https://i.imgur.com/dMCdcoI.jpg">](#limited-time-promotion)
 
 <h2 align="center">
   The Best Residential Proxy Network
