@@ -27,6 +27,7 @@ High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all ove
 - [Integrations](#integrations)
 - [License](#license)
 - [Contacts](#contacts)
+- [Limited Time Promotion](#limited-time-promotion)
  
 ## What is smartproxy
 Smartproxy is a rotating residential proxy network which enables users to gather any data from the web using a pool of over 10 million proxies.
@@ -77,6 +78,7 @@ Email - sales@smartproxy.com
 ## Limited Time Promotion
 
 <br> Follow these steps to claim your discount:
+
 <br> 1. Star our [Github repository](https://github.com/Smartproxy/Smartproxy/)
 <br> <img src="https://i.imgur.com/3F8smIy.png">
 <br> 2. If you have not yet, [register your smartproxy account](https://dashboard.smartproxy.com/register).
