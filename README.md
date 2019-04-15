@@ -60,6 +60,8 @@ Using smartproxy is fairly simple - in the dashboard you will be able to select 
 - [Nightmare.js](https://github.com/Smartproxy/Smartproxy/tree/master/nightmarejs)
 - [Node.js](https://github.com/Smartproxy/Smartproxy/tree/master/nodejs)
 - [PHP](https://github.com/Smartproxy/Smartproxy/tree/master/php)
+- [Puppeteer.js](https://github.com/Smartproxy/Smartproxy/tree/master/puppeteer)
+- [Python](https://github.com/Smartproxy/Smartproxy/tree/master/python)
 - [Ruby](https://github.com/Smartproxy/Smartproxy/tree/master/scrapy)
 - [Scrapy](https://github.com/Smartproxy/Smartproxy/tree/master/scrapy)
 - [Scrapy Middleware](https://github.com/Smartproxy/Smartproxy/tree/master/scrapy_middleware)
