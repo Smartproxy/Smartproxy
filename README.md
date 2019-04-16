@@ -13,7 +13,7 @@
 <p align="center">
 High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all over the globe
   <a href="https://smartproxy.com/how-it-works">
-    <img src="https://smartproxy.com/wp-content/uploads/2019/04/How-Smartproxy-Proxy-network-Works.svg">
+    <img src="https://i.imgur.com/1qKkqIz.gif">
   </a>
 </p>
 
