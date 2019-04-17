@@ -17,7 +17,7 @@ const (
 
 func main() {
 	proxyUrl := &url.URL{
-		Scheme: "https",
+		Scheme: "http",
 		User:   url.UserPassword(username, password),
 		Host:   proxyHost,
 	}
