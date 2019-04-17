@@ -56,6 +56,7 @@ Using smartproxy is fairly simple - in the dashboard you will be able to select 
 - [Beautiful Soup](https://github.com/Smartproxy/Smartproxy/tree/master/beautifulsoup)
 - [C#](https://github.com/Smartproxy/Smartproxy/tree/master/csharp)
 - [Cheerio.js](https://github.com/Smartproxy/Smartproxy/tree/master/cheerio)
+- [Golang](https://github.com/Smartproxy/Smartproxy/tree/master/golang)
 - [Java](https://github.com/Smartproxy/Smartproxy/tree/master/java)
 - [Nightmare.js](https://github.com/Smartproxy/Smartproxy/tree/master/nightmarejs)
 - [Node.js](https://github.com/Smartproxy/Smartproxy/tree/master/nodejs)
