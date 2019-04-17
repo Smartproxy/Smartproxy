@@ -1,1 +1,1 @@
-curl -x gate.smartproxy.com:7000 -U "customer-username:password" https://ipinfo.io/
+curl -x gate.smartproxy.com:7000 -U "username:password" https://ipinfo.io/
