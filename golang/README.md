@@ -17,7 +17,7 @@ If you want to continue develompent with Golang we highly recommend reading thei
 
 <img src="https://i.imgur.com/yZunHb6.png">
 
-3. You should see a new file named golang.go in your project folder. Edit it using an editor of your choice.
+3. You should see a new file named `golang.go` in your project folder. Edit it using an editor of your choice.
 
 4. To setup your username, password and endpoint you would like to use, change the according line in within punctuation marks ('').
 
