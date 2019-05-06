@@ -4,7 +4,7 @@
   </a>
 </p>
 
-[<img src="https://i.imgur.com/dMCdcoI.jpg">](#limited-time-promotion)
+[<img src="https://i.imgur.com/dMCdcoI.jpg">](https://dashboard.smartproxy.com/register?coupon=GITHUB19)
 
 <h2 align="center">
   The Best Residential Proxy Network
@@ -17,8 +17,6 @@ High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all ove
   </a>
 </p>
 
-
-
 ## List of contents
 
 - [What is smartproxy](#what-is-smartproxy)
@@ -27,7 +25,6 @@ High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all ove
 - [Integrations](#integrations)
 - [License](#license)
 - [Contacts](#contacts)
-- [Limited Time Promotion](#limited-time-promotion)
  
 ## What is smartproxy
 Smartproxy is a rotating residential proxy network which enables users to gather any data from the web using a pool of over 10 million proxies.
@@ -78,12 +75,3 @@ Email - sales@smartproxy.com
 <br><a href="https://smartproxy.com">Live chat 24/7</a>
 <br><a href="https://join.skype.com/invite/bZDHw4NZg2G9">Skype</a>
 <br><a href="https://t.me/smartproxy_com">Telegram</a>
-
-## Limited Time Promotion
-
-Follow these steps to claim your discount:
-<br>
-<br> 1. Star our [Github repository](https://github.com/Smartproxy/Smartproxy/)
-<br> <img src="https://i.imgur.com/3F8smIy.png">
-<br> 2. If you have not yet, [register your smartproxy account](https://dashboard.smartproxy.com/register).
-<br> 3. Write an email to help@smartproxy.com with your Github username and your smartproxy account email.
