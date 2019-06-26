@@ -40,6 +40,7 @@ def smartproxy():
     prox.proxy_type = ProxyType.MANUAL
 
     prox.http_proxy = '{hostname}:{port}'.format(hostname = HOSTNAME, port = PORT)
+    prox.ssl_proxy = '{hostname}:{port}'.format(hostname = HOSTNAME, port = PORT)
 
     if DRIVER == 'FIREFOX':
         capabilities = webdriver.DesiredCapabilities.FIREFOX
