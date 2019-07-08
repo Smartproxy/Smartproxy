@@ -67,7 +67,7 @@ HttpProxy = "gate.smartproxy.com:7000"
 HttpProxy = "http://gate.smartproxy.com:7000"
 ```
 
-<img src="https://i.imgur.com/4SfTwlu.png">
+<img src="https://i.imgur.com/R0CPyut.png">
 
 ### Testing
 
