@@ -49,7 +49,7 @@ Using smartproxy is fairly simple - in the dashboard you will be able to select 
 
 ## Integrations
 
-- [Beautiful Soup](https://github.com/Smartproxy/Smartproxy/tree/master/beautifulsoup)
+- [Beautiful Soup](https://github.com/Smartproxy/BeautifulSoup)
 - [C#](https://github.com/Smartproxy/Smartproxy/tree/master/csharp)
 - [Cheerio.js](https://github.com/Smartproxy/Smartproxy/tree/master/cheerio)
 - [Golang](https://github.com/Smartproxy/Smartproxy/tree/master/golang)
