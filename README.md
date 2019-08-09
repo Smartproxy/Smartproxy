@@ -12,7 +12,7 @@
 <p align="center">
 High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all over the globe
   <a href="https://smartproxy.com/how-it-works">
-    <img src="https://smartproxy.com/wp-content/uploads/2019/04/How-Smartproxy-Proxy-network-Work.svg">
+    <img src="https://smartproxy.com/wp-content/uploads/2019/04/How-Smartproxy-Proxy-network-Work.svg" alt="How smartproxy proxy network works">
   </a>
 </p>
 
@@ -40,7 +40,7 @@ Using smartproxy is fairly simple - in the dashboard you will be able to select 
 
 <br>*See example below with US rotating port specified (in the example whitelisted IP is used instead of standard username:password authorization)*
   
-  <a href="https://smartproxy.com/proxy-list"><img src="https://i.imgur.com/9T35Z63.gif" alt="20190408_160415.gif" border="0" /></a>
+  <a href="https://smartproxy.com/proxy-list"><img src="https://i.imgur.com/9T35Z63.gif" alt="Smartproxy proxy how to use endpoint and port, curl example." border="0" /></a>
   
 ## Getting started
 <br>[<img src="https://smartproxy.com/wp-content/uploads/2019/04/How-to-buy-Smartproxy-plans-now.svg">](https://dashboard.smartproxy.com/register)
@@ -49,7 +49,7 @@ Using smartproxy is fairly simple - in the dashboard you will be able to select 
 <br> 3. ???
 <br> 4. 10m+ residential IPs in your pocket
 <br><br>Accepted payment methods:
-<br>[<img src="https://smartproxy.com/wp-content/uploads/2018/09/payment-methods-smartproxy-residential-rotating-proxies.svg" alt="" width="250" height="50">](https://smartproxy.com/pricing)
+<br>[<img src="https://smartproxy.com/wp-content/uploads/2018/09/payment-methods-smartproxy-residential-rotating-proxies.svg" alt="Smartproxy accepted payment methods" width="250" height="50">](https://smartproxy.com/pricing)
 
 ## Integrations
 
