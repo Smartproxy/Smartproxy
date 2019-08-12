@@ -15,13 +15,13 @@ If you want to continue develompent with Golang we highly recommend reading thei
 
 `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/golang/golang.go > golang.go`
 
-<img src="https://i.imgur.com/yZunHb6.png">
+<img src="https://i.imgur.com/yZunHb6.png" alt="curl smartproxy golang code sample">
 
 3. You should see a new file named `golang.go` in your project folder. Edit it using an editor of your choice.
 
 4. To setup your username, password and endpoint you would like to use, change the according line in within punctuation marks ('').
 
-<img src="https://i.imgur.com/Qu1VOOA.png">
+<img src="https://i.imgur.com/Qu1VOOA.png" alt="smartproxy golang proxy username password authentication">
 
 ### Usage
 
