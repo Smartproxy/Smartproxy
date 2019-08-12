@@ -18,13 +18,13 @@ Once you have Ruby installed, continue with the following steps in Command Promp
 
 `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/ruby/ruby.rb > ruby.rb`
 
-<img src="https://i.imgur.com/sHxuSIz.png">
+<img src="https://i.imgur.com/sHxuSIz.png" alt="curl smartproxy ruby code sample">
 
 4. You should see a new file named `ruby.rb` in your project folder. Edit it using an editor of your choice.
 
 5. To setup your username, password and endpoint you would like to use, change the according line in within punctuation marks ('').
 
-<img src="https://i.imgur.com/aHRRPlH.png">
+<img src="https://i.imgur.com/aHRRPlH.png" alt="smartproxy ruby proxy username password authentication">
 
 ### Usage
 
