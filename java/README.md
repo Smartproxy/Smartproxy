@@ -28,7 +28,7 @@ When project directory is setup, you can now download our example code for Java.
 ```
 curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/java/java.java > java.java
 ```
-<img src="https://i.imgur.com/4NpvtzU.png">
+<img src="https://i.imgur.com/4NpvtzU.png" alt="curl smartproxy java code sample">
 
 4. You should now see your project folder populated with *java.java* file.
 
@@ -36,7 +36,7 @@ curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/java/java.ja
 
 To configure the proxy, simply change the arrow marked lines in the code:
 
-<img src="https://i.imgur.com/lu1MvCT.png">
+<img src="https://i.imgur.com/lu1MvCT.png" alt="smartproxy java proxy username password authentication">
 
 ### Usage
 
