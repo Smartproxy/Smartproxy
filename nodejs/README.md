@@ -19,13 +19,13 @@ Once you have prerequisites installed, continue with the following steps in Comm
 
 `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/nodejs/node.js > node.js`
 
-<img src="https://i.imgur.com/0e5b5vn.png">
+<img src="https://i.imgur.com/0e5b5vn.png" alt="curl smartproxy node.js code sample">
 
 4. You should see a new file named `node.js` in your project folder. Edit it using an editor of your choice.
 
 5. To setup your username, password and endpoint you would like to use, change the according line in within punctuation marks ('').
 
-<img src="https://i.imgur.com/cYUE2wP.png">
+<img src="https://i.imgur.com/cYUE2wP.png" alt="smartproxy node.js proxy username password authentication">
 
 ### Usage
 
