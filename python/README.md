@@ -18,13 +18,13 @@ Once you have Python installed, continue with the following steps in Command Pro
 
 `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/python/python.py > python.py`
 
-<img src="https://i.imgur.com/aWtcsBV.png">
+<img src="https://i.imgur.com/aWtcsBV.png" alt="curl smartproxy python code sample">
 
 4. You should see a new file named `python.py` in your project folder. Edit it using an editor of your choice.
 
 5. To setup your username, password and endpoint you would like to use, change the according line in within punctuation marks ('').
 
-<img src="https://i.imgur.com/CuMdGMn.png">
+<img src="https://i.imgur.com/CuMdGMn.png" alt="smartproxy python proxy username password authentication">
 
 ### Usage
 
