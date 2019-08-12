@@ -15,13 +15,13 @@ The provided example code is only to show basic authenticationt through proxy wh
 
 `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/php/php.php > php.php`
 
-<img src="https://i.imgur.com/p0Vaxgu.png">
+<img src="https://i.imgur.com/p0Vaxgu.png" alt="curl smartproxy php code sample">
 
 3. You should see a new file named php.php in your project folder. Edit it using an editor of your choice.
 
 4. To setup your username, password and endpoint you would like to use, change the according line in within punctuation marks ('').
 
-<img src="https://i.imgur.com/g1jQVFu.png">
+<img src="https://i.imgur.com/g1jQVFu.png" alt="smartproxy php proxy username password authentication">
 
 ### Usage
 
