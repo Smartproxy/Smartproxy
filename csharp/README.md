@@ -1,4 +1,4 @@
-## <img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="" width="200" height="50"> 
+## <img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="smartproxy logo" width="200" height="50"> 
 
 ### Disclaimer
 
@@ -26,7 +26,7 @@ The following example is built with Visual Studio, you can run it using these st
 
 To run this C# example, setup your username, password and endpoint you would like to use, change the according lines in within punctuation marks ('').
 
-<img src="https://i.imgur.com/BIoX2Jd.png">
+<img src="https://i.imgur.com/BIoX2Jd.png" alt="C# proxy username password authentication example">
 
 If you did everything correctly, you should see an IP appearing form our proxy server in the console window.
 
