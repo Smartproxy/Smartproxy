@@ -47,9 +47,6 @@ If everything is done correctly, after running the code, you will see an IP addr
 
 <img src="https://i.imgur.com/uw04VjW.png">
 
-## How to get started with Smartproxy?
-<br>[<img src="https://smartproxy.com/wp-content/uploads/2019/04/How-to-buy-Smartproxy-plans-now.svg">](https://dashboard.smartproxy.com/register)
-
 ## Need help?
 Email - sales@smartproxy.com
 <br><a href="https://smartproxy.com">Live chat 24/7</a>
