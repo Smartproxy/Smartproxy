@@ -1,4 +1,7 @@
-## <img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="" width="200" height="50"> 
+<p align="center">
+    <a href="https://smartproxy.com/"><img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="Smartproxy logo" width="200" height="50"></a>
+  </a>
+</p>
 
 ### Disclaimer
 
@@ -33,11 +36,7 @@ To execute the Node.js example, simply write `node node.js`
 
 If you did everything correctly, you should see IP details from the target website appearing in your Terminal/Command Prompt.
 
-<img src="https://i.imgur.com/vya5gY5.png">
-
-
-## How to get started with Smartproxy?
-<br>[<img src="https://smartproxy.com/wp-content/uploads/2019/04/How-to-buy-Smartproxy-plans-now.svg">](https://dashboard.smartproxy.com/register)
+<img src="https://i.imgur.com/vya5gY5.png" alt="smartproxy successful node.js connection">
 
 ## Contacts
 Email - sales@smartproxy.com
