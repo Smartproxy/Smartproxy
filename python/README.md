@@ -24,7 +24,7 @@ Once you have Python installed, continue with the following steps in Command Pro
 
 5. To setup your username, password and endpoint you would like to use, change the according line in within punctuation marks ('').
 
-<img src="https://i.imgur.com/CuMdGMn.png" alt="smartproxy python proxy username password authentication">
+<img src="https://i.imgur.com/C3A3H0s.png" alt="smartproxy python proxy username password authentication">
 
 ### Usage
 
@@ -32,7 +32,7 @@ To execute the Python example, simply write `python python.py`
 
 If you did everything correctly, you should see IP details from the target website appearing in your Terminal/Command Prompt.
 
-<img src="https://i.imgur.com/6RtN64L.png">
+<img src="https://i.imgur.com/6RtN64L.png" alt="smartproxy successful python connection example">
 
 
 ## How to get started with Smartproxy?
