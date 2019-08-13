@@ -1,4 +1,7 @@
-## <img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="" width="200" height="50"> 
+<p align="center">
+    <a href="https://smartproxy.com/"><img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="Smartproxy logo" width="200" height="50"></a>
+  </a>
+</p>
 
 ### Disclaimer
 
@@ -31,12 +34,9 @@ Once you have it setup you can access your file with the path it has been stored
 
 If you did everything correctly, you should see an IP appearing form our proxy server once you open the website.
 
-<img src="https://i.imgur.com/tt7naVL.png">
+<img src="https://i.imgur.com/tt7naVL.png" alt="smartproxy successful php connection">
 
-## How to get started with Smartproxy?
-<br>[<img src="https://smartproxy.com/wp-content/uploads/2019/04/How-to-buy-Smartproxy-plans-now.svg">](https://dashboard.smartproxy.com/register)
-
-## Contacts
+## Need help?
 Email - sales@smartproxy.com
 <br><a href="https://smartproxy.com">Live chat 24/7</a>
 <br><a href="https://join.skype.com/invite/bZDHw4NZg2G9">Skype</a>
