@@ -41,5 +41,3 @@ Big thanks to [@moeryomenko](https://github.com/moeryomenko) for submitting this
 ## Need help?
 Email - sales@smartproxy.com
 <br><a href="https://smartproxy.com">Live chat 24/7</a>
-<br><a href="https://join.skype.com/invite/bZDHw4NZg2G9">Skype</a>
-<br><a href="https://t.me/smartproxy_com">Telegram</a>
