@@ -5,7 +5,7 @@
 
 ### Disclaimer
 
-The provided example code is only to show basic authenticationt through proxy while sending requests with PHP. If you want to continue develompent with this tool we highly recommend reading their [documentation](https://www.php.net/manual/en/).
+The provided example code is only to show basic authentication through proxy while sending requests with PHP. If you want to continue develompent with this tool we highly recommend reading their [documentation](https://www.php.net/manual/en/).
 
 ### Prerequisites
 
