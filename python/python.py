@@ -1,11 +1,11 @@
-import requests
+import urllib.request as request
 
 url = 'https://ipinfo.io'
 username = 'username'
 password = 'password'
 
-proxy = f'http://{username}:{password}@gate.smartproxy.com:7000'
+proxy = ('http://%s:%s@gate.smartproxy.com:7000' % (username, password))
 
-response = requests.get(url, proxies={'http': proxy, 'https': proxy})
+query = request.build_opener(request.ProxyHandler({'http': proxy, 'https': proxy}))
 
-print(response.text)
+print(query.open(url).read())
