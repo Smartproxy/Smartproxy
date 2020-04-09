@@ -27,7 +27,7 @@ Once you have Python installed, continue with the following steps in Command Pro
 
 5. To setup your username, password and endpoint you would like to use, change the according line in within punctuation marks ('').
 
-<img src="https://i.imgur.com/QWttSk0.png" alt="smartproxy python proxy username password authentication">
+<img src="https://i.imgur.com/9VAwEZr.png" alt="smartproxy python proxy username password authentication">
 
 ### Usage
 
