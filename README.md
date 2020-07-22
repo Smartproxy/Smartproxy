@@ -40,7 +40,7 @@ Using smartproxy is fairly simple - in the dashboard you will be able to select 
   <a href="https://smartproxy.com/proxy-list"><img src="https://i.imgur.com/9T35Z63.gif" alt="Smartproxy proxy how to use endpoint and port, curl example." border="0" /></a>
   
 ## Getting started
-<br>[<img src="https://smartproxy.com/wp-content/uploads/2019/04/How-to-buy-Smartproxy-plans-now.svg">](https://dashboard.smartproxy.com/register)
+<br>[<img src="https://i.imgur.com/V2NhawG.png">](https://dashboard.smartproxy.com/register)
 <br> 1. [Register your smartproxy account](https://dashboard.smartproxy.com/register)
 <br> 2. [Pick a plan](https://smartproxy.com/pricing)
 <br> 3. ???
