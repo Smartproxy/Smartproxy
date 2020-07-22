@@ -3,17 +3,14 @@
   </a>
 </p>
 
-[<img src="https://i.imgur.com/dMCdcoI.jpg">](https://dashboard.smartproxy.com/register?coupon=GITHUB19)
+[<img src="https://i.imgur.com/dMCdcoI.jpg">](https://dashboard.smartproxy.com/register?coupon=GITHUB20)
 
 <h2 align="center">
   The Best Residential Proxy Network
 </h2>
 
 <p align="center">
-High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all over the globe
-  <a href="https://smartproxy.com/how-it-works">
-    <img src="https://smartproxy.com/wp-content/uploads/2019/04/How-Smartproxy-Proxy-network-Work.svg" alt="How smartproxy proxy network works">
-  </a>
+High quality residential HTTP(S) rotating proxies with a 40M+ unique IPs all over the globe
 </p>
 
 ## List of contents
@@ -26,7 +23,7 @@ High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all ove
 - [Contacts](#contacts)
  
 ## What is smartproxy
-Smartproxy is a rotating residential proxy network which enables users to gather any data from the web using a pool of over 10 million proxies.
+Smartproxy is a rotating residential proxy network which enables users to gather any data from the web using a pool of over 40 million proxies.
 
 We provide rotating proxies which are changing with each new request or sticky IP sessions to keep your session for a longer period (up to 10 minutes). How does it work? [Check here](https://smartproxy.com/questions/how-does-it-work)
 
@@ -47,7 +44,7 @@ Using smartproxy is fairly simple - in the dashboard you will be able to select 
 <br> 1. [Register your smartproxy account](https://dashboard.smartproxy.com/register)
 <br> 2. [Pick a plan](https://smartproxy.com/pricing)
 <br> 3. ???
-<br> 4. 10m+ residential IPs in your pocket
+<br> 4. 40M+ residential IPs in your pocket
 <br><br>Accepted payment methods:
 <br>[<img src="https://smartproxy.com/wp-content/uploads/2018/09/payment-methods-smartproxy-residential-rotating-proxies.svg" alt="Smartproxy accepted payment methods" width="250" height="50">](https://smartproxy.com/pricing)
 
