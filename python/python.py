@@ -1,6 +1,6 @@
 import urllib.request as request
 
-url = 'https://ipinfo.io'
+url = 'https://ipinfo.io/json'
 username = 'username'
 password = 'password'
 
