@@ -10,7 +10,7 @@ If you want to continue develompent with Node.js we highly recommend reading the
 ### Prerequisites
 
 * [Node](https://nodejs.org/en/download/)
-* [request-promise](https://www.npmjs.com/package/request-promise)
+* [Axios](https://axios-http.com/)
 
 ### Installation
 
