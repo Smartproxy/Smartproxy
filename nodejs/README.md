@@ -26,9 +26,9 @@ Once you have prerequisites installed, continue with the following steps in Comm
 
 4. You should see a new file named `node.js` in your project folder. Edit it using an editor of your choice.
 
-5. To setup your username, password and endpoint you would like to use, change the according line in within punctuation marks ('').
+5. To setup your username, password and endpoint you would like to use, change the according lines in within punctuation marks ('').
 
-<img src="https://i.imgur.com/cYUE2wP.png" alt="smartproxy node.js proxy username password authentication">
+<img src="https://i.imgur.com/QjJXrJe.png" alt="smartproxy node.js proxy username password authentication">
 
 ### Usage
 
