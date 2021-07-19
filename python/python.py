@@ -1,4 +1,4 @@
-import urllib.request as request
+import requests
 
 url = 'https://ipinfo.io'
 username = 'username'
@@ -6,6 +6,6 @@ password = 'password'
 
 proxy = f'http://{username}:{password}@gate.smartproxy.com:7000'
   
-query = request.build_opener(request.ProxyHandler({'http': proxy, 'https': proxy}))
+response = requests.get(url, proxies={'http': proxy, 'https': proxy})
 
-print(query.open(url).read())
+print(response.text)
