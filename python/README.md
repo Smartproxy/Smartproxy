@@ -35,7 +35,7 @@ To execute the Python example, simply write `python python.py`
 
 If you did everything correctly, you should see IP details from the target website appearing in your Terminal/Command Prompt.
 
-<img src="https://i.imgur.com/6RtN64L.png" alt="smartproxy successful python connection example">
+<img src="https://i.imgur.com/L69AEMz.png" alt="smartproxy successful python connection example">
 
 ## Need help?
 Email - sales@smartproxy.com
