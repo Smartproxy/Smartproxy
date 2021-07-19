@@ -1,13 +1,16 @@
-require('request-promise') ( { 
+const axios = require("axios");
 
-   url: 'https://ipinfo.io/ip', 
-   proxy: 'http://username:password@gate.smartproxy.com:7000' 
-
-}).then( 
-   function(data ){ 
-      console.log(data); 
-    }, 
-    function(err){ 
-       console.error(err); 
-   } 
-);
+const url = "https://ipinfo.io/ip";
+const resp = axios.get(url, {
+    proxy: {
+        host: 'gate.smartproxy.com',
+        port: 7000,
+        auth: {
+            username: 'username',
+            password: 'password'
+        }
+    }
+    
+}). then(resp => {
+    console.log(resp.data);
+});
