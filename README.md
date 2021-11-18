@@ -1,16 +1,16 @@
 <p align="center">
-    <a href="https://smartproxy.com/"><img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="Smartproxy logo" width="200" height="50"></a>
+    <a href="https://smartproxy.com/"><img src="https://images.prismic.io/smartproxy/400e44d6-09ea-4168-a848-ed0e7cfb442a_sp-logo-dark-vertical.png" alt="Smartproxy logo" width="200"></a>
   </a>
 </p>
 
-[<img src="https://i.imgur.com/dMCdcoI.jpg">](https://dashboard.smartproxy.com/register?coupon=GITHUB20)
+[<img src="https://i.ibb.co/S6ytt21/github-banner.png">](https://dashboard.smartproxy.com/register?coupon=SMARTHUB20&utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=banner)
 
 <h2 align="center">
   The Best Residential Proxy Network
 </h2>
 
 <p align="center">
-High quality residential HTTP(S) rotating proxies with a 40M+ unique IPs all over the globe
+High quality residential HTTP(S) rotating proxies with a 40M+ unique IPs all over the globe.
 </p>
 
 ## List of contents
@@ -25,28 +25,26 @@ High quality residential HTTP(S) rotating proxies with a 40M+ unique IPs all ove
 ## What is smartproxy
 Smartproxy is a rotating residential proxy network which enables users to gather any data from the web using a pool of over 40 million proxies.
 
-We provide rotating proxies which are changing with each new request or sticky IP sessions to keep your session for a longer period (up to 10 minutes). How does it work? [Check here](https://smartproxy.com/questions/how-does-it-work)
+We provide rotating proxies which change with each new request or sticky IP sessions to keep your session for a longer period (up to 30 minutes). How does it work? [Check here](https://smartproxy.com/questions/how-does-it-work?utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink)
 
-Need Datacenter proxies? [Smartproxy offers blazing fast shared proxy pool](https://smartproxy.com/proxies/shared-proxies)
+Need Datacenter proxies? [Smartproxy offers blazing fast shared proxy pool!](https://smartproxy.com/proxies/shared-proxies?utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink) If speed is your priority, datacenter proxies should be your go-to.
 
-Our Datacenter proxies provides with both rotating and sticky ports which can hold your session for a longer period of time (30 minutes).
+Don't like sharing your IPs with someone else? [Consider getting dedicated ones instead!](https://smartproxy.com/proxies/dedicated-datacenter-proxies?utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink) These proxies do not rotate and are yours to keep for as long as you prefer! Oh, and the traffic is completely unlimited.
 
 ## How does it work
 
-Using smartproxy is fairly simple - in the dashboard you will be able to select which port you want: **rotating** or **sticky** (currently provides IP up to 10min) and whether you want a **random IP** (any country) or target **specific country/city**. System will generate relevant endpoint in domain:port format.
+Using smartproxy is fairly simple - in the dashboard you will be able to select a session type: **rotating** or **sticky** and whether you want IPs from a **random location** or a **specific country/city**. Our system will generate relevant endpoint in domain:port format for you. If you are curious, we have prepared a [quick start guide](https://smartproxy.com/smartproxy-quick-start-guide?utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink).
 
-<br>*See example below with US rotating port specified (in the example whitelisted IP is used instead of standard username:password authorization)*
-  
-  <a href="https://smartproxy.com/proxy-list"><img src="https://i.imgur.com/9T35Z63.gif" alt="Smartproxy proxy how to use endpoint and port, curl example." border="0" /></a>
+We offer 2 authenitcation options – **IP whitelist** and **username:password**. IP whitelisting allows you to add your IP address to our system in order to use our proxies without the need to authenticate and username:password one requires you to use the your unique credentials in order to access our proxy pool.
   
 ## Getting started
-<br>[<img src="https://i.imgur.com/V2NhawG.png">](https://dashboard.smartproxy.com/register)
-<br> 1. [Register your smartproxy account](https://dashboard.smartproxy.com/register)
-<br> 2. [Pick a plan](https://smartproxy.com/pricing)
-<br> 3. ???
+<br>[<img src="https://i.imgur.com/V2NhawG.png">](https://dashboard.smartproxy.com/register?utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=image)
+<br> 1. [Register your smartproxy account](https://dashboard.smartproxy.com/register?coupon=SMARTHUB20&utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink)
+<br> 2. [Pick a plan](https://smartproxy.com/proxies/residential-proxies/pricing?utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink)
+<br> 3. Make a purchase
 <br> 4. 40M+ residential IPs in your pocket
 <br><br>Accepted payment methods:
-<br>[<img src="https://smartproxy.com/wp-content/uploads/2018/09/payment-methods-smartproxy-residential-rotating-proxies.svg" alt="Smartproxy accepted payment methods" width="250" height="50">](https://smartproxy.com/pricing)
+<br>[<img src="https://i.ibb.co/cY4Xqm0/github-payments.png" alt="Smartproxy accepted payment methods">](https://smartproxy.com/proxies/residential-proxies/pricing?utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink)
 
 ## Integrations
 
@@ -72,5 +70,5 @@ All code is released under [MIT License](https://github.com/Smartproxy/Smartprox
 
 ## Contacts
 Email - sales@smartproxy.com
-<br><a href="https://smartproxy.com">Live chat 24/7</a>
+<br><a href="https://direct.lc.chat/12092754/">Live chat 24/7</a>
 
