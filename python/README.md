@@ -19,7 +19,7 @@ Once you have Python installed, continue with the following steps in Command Pro
 2. Navigate to your project folder using `cd python_example` command.
 3. After that, execute the following command to download our proxy setup example file:
 
-For HTTP(S) `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/python/python.py > python.py`
+For HTTP(S) `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/python/python.py > python.py` <br>
 For Socks5 `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/python/python.py > pythonsocks5h.py`
 
 <img src="https://i.imgur.com/aWtcsBV.png" alt="curl smartproxy python code sample">
