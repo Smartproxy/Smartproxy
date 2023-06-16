@@ -20,7 +20,8 @@ Once you have prerequisites installed, continue with the following steps in Comm
 2. Navigate to your project folder using `cd node_example` command.
 3. After that, execute the following command to download our proxy setup example file:
 
-`curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/nodejs/node.js > node.js`
+For HTTP(S) `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/nodejs/node.js > node.js` <br>
+For SOCKS5 `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/nodejs/node.js > nodesocks5h.js`
 
 <img src="https://i.imgur.com/0e5b5vn.png" alt="curl smartproxy node.js code sample">
 
