@@ -16,7 +16,7 @@ The provided example code is only to show basic authentication through proxy whi
 1. Once you have your project directory ready for development with PHP, open it using Terminal/Command prompt utilising `cd` command.
 2. After that, execute the following command to download our proxy setup example file:
 
-For HTTP(S) `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/php/php.php > php.php`
+For HTTP(S) `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/php/php.php > php.php` <br>
 For SOCKS5 `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/php/php.php > phpsocks5h.php`
 
 <img src="https://i.imgur.com/p0Vaxgu.png" alt="curl smartproxy php code sample">
