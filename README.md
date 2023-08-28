@@ -23,7 +23,7 @@ High quality residential HTTP(S) rotating proxies with a 40M+ unique IPs all ove
 - [Contacts](#contacts)
  
 ## What is smartproxy
-Smartproxy is a rotating residential proxy network which enables users to gather any data from the web using a pool of over 40 million proxies.
+[Smartproxy](https://smartproxy.com/) is a rotating residential proxy network which enables users to gather any data from the web using a pool of over 40 million proxies.
 
 We provide rotating proxies which change with each new request or sticky IP sessions to keep your session for a longer period (up to 30 minutes). How does it work? [Check here](https://smartproxy.com/questions/how-does-it-work?utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink)
 
