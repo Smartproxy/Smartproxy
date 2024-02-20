@@ -17,7 +17,7 @@ class Program
 
     static async void DownloadPageAsync()
     {
-        string page = "http://ip.smartproxy.com/";
+        string page = "https://ip.smartproxy.com/json/";
 
         var proxy = new WebProxy("gate.smartproxy.com:7000")
         {
