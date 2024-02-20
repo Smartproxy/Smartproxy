@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	resourceUrl = "https://ipinfo.io"
+	resourceUrl = "https://ip.smartproxy.com/json/"
 	proxyHost   = "gate.smartproxy.com:7000"
 	username    = "username"
 	password    = "password"
