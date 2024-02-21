@@ -1,6 +1,6 @@
 import requests
 
-url = 'https://ipinfo.io'
+url = 'https://ip.smartproxy.com/json'
 username = 'username'
 password = 'password'
 
