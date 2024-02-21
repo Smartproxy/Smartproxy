@@ -6,12 +6,12 @@ proxy_port = 7000
 proxy_user = 'username' 
 proxy_pass = 'password' 
 
-uri = URI.parse('http://ipinfo.io/ip') 
+uri = URI.parse('https://ip.smartproxy.com/json') 
 proxy = Net::HTTP::Proxy(proxy_host, proxy_port, proxy_user, proxy_pass) 
 
 req = Net::HTTP::Get.new(uri.path) 
 
-result = proxy.start(uri.host, uri.port) do |http| 
+result = proxy.start(uri.host, uri.port, use_ssl: true) do |http| 
    http.request(req) 
 end 
 
