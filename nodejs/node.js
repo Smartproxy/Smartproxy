@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const url = "https://ipinfo.io/ip";
+const url = "https://ip.smartproxy.com/json";
 const resp = axios.get(url, {
     proxy: {
         host: 'gate.smartproxy.com',
