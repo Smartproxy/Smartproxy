@@ -39,13 +39,13 @@ curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/java/java.ja
 
 To configure the proxy, simply change the arrow marked lines in the code:
 
-<img src="https://i.imgur.com/lu1MvCT.png" alt="smartproxy java proxy username password authentication">
+<img src="https://i.imgur.com/JVJTTrm.png" alt="smartproxy java proxy username password authentication">
 
 ### Usage
 
 If everything is done correctly, after running the code, you will see an IP address printed in the Console.
 
-<img src="https://i.imgur.com/uw04VjW.png">
+<img src="https://i.imgur.com/CS80lMb.png">
 
 ## Need help?
 Email - sales@smartproxy.com
