@@ -8,7 +8,7 @@ public class ProxyTest
    { 
       InetSocketAddress proxyAddress = new InetSocketAddress("gate.smartproxy.com", 7000); // Set proxy IP/port. 
       Proxy proxy = new Proxy(Proxy.Type.HTTP, proxyAddress); 
-      URL url = new URL("http://ipinfo.io/ip"); //enter target URL 
+      URL url = new URL("https://ip.smartproxy.com/"); //enter target URL 
       Authenticator authenticator = new Authenticator() { 
          public PasswordAuthentication getPasswordAuthentication() { 
             return (new PasswordAuthentication("username","password".toCharArray())); //enter credentials 
@@ -23,7 +23,7 @@ public class ProxyTest
 //Scanner to view output 
 
 Scanner scanner = new Scanner(urlConnection.getInputStream()); 
-   System.out.println(scanner.next()); 
+   System.out.println(scanner.nextLine()); 
    scanner.close(); 
 
    } 
