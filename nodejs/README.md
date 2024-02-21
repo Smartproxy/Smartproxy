@@ -5,7 +5,7 @@
 
 ### Disclaimer
 
-If you want to continue develompent with Node.js we highly recommend reading their [documentation](https://nodejs.org/en/docs/).
+If you want to continue development with Node.js we highly recommend reading their [documentation](https://nodejs.org/en/docs/).
 
 ### Prerequisites
 
