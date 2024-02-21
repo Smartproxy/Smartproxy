@@ -24,7 +24,7 @@ If you want to continue develompent with Golang we highly recommend reading thei
 
 4. To setup your username, password and endpoint you would like to use, change the according line in within punctuation marks ('').
 
-<img src="https://i.imgur.com/Qu1VOOA.png" alt="smartproxy golang proxy username password authentication">
+<img src="https://i.imgur.com/T2KVjPx.png" alt="smartproxy golang proxy username password authentication">
 
 ### Usage
 
