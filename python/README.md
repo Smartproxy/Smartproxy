@@ -5,7 +5,7 @@
 
 ### Disclaimer
 
-If you want to continue develompent with Python we highly recommend reading their [documentation](https://docs.python.org/3/).
+If you want to continue development with Python we highly recommend reading their [documentation](https://docs.python.org/3/).
 
 ### Prerequisites
 
@@ -36,7 +36,7 @@ To execute the Python example, simply write `python python.py`
 
 If you did everything correctly, you should see IP details from the target website appearing in your Terminal/Command Prompt.
 
-<img src="https://i.imgur.com/L69AEMz.png" alt="smartproxy successful python connection example">
+<img src="https://i.imgur.com/S9ySUhh.png" alt="smartproxy successful python connection example">
 
 ## Need help?
 Email - sales@smartproxy.com
