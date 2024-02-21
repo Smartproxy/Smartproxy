@@ -5,7 +5,7 @@
 
 ### Disclaimer
 
-If you want to continue develompent with Ruby we highly recommend reading their [documentation](https://www.ruby-lang.org/en/documentation/).
+If you want to continue development with Ruby we highly recommend reading their [documentation](https://www.ruby-lang.org/en/documentation/).
 
 ### Prerequisites
 
@@ -35,7 +35,7 @@ To execute the Ruby example, simply write `ruby ruby.rb`
 
 If you did everything correctly, you should see IP details from the target website appearing in your Terminal/Command Prompt.
 
-<img src="https://i.imgur.com/9RdHhku.png" alt="smartproxy successful ruby connection example">
+<img src="https://i.imgur.com/IER1nbE.png" alt="smartproxy successful ruby connection example">
 
 ## Need help?
 Email - sales@smartproxy.com
