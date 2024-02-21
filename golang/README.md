@@ -5,7 +5,7 @@
 
 ### Disclaimer
 
-If you want to continue develompent with Golang we highly recommend reading their [documentation](https://golang.org/doc/).
+If you want to continue development with Golang we highly recommend reading their [documentation](https://golang.org/doc/).
 
 ### Prerequisites
 
