@@ -1,8 +1,8 @@
 import requests
 
-url = 'https://ipinfo.io'
-username = ''
-password = ''
+url = 'https://ip.smartproxy.com/json'
+username = 'username'
+password = 'password'
 
 proxy = f'socks5h://{username}:{password}@gate.smartproxy.com:7000'
   
