@@ -2,8 +2,6 @@
     <a href="https://dashboard.smartproxy.com/?page=residential-proxies&utm_source=socialorganic&utm_medium=social&utm_campaign=resi_trial_GITHUB"><img src="https://i.imgur.com/3uZgYJ9.png"></a>
 </p>
 
-[<img src="https://i.ibb.co/S6ytt21/github-banner.png">](https://dashboard.smartproxy.com/register?coupon=SMARTHUB20&utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=banner)
-
 <h2 align="center">
   The Best Residential Proxy Network
 </h2>
