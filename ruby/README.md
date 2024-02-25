@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://smartproxy.com/"><img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="Smartproxy logo" width="200" height="50"></a>
+    <a href="https://smartproxy.com/"><img src="https://snipboard.io/3IyORg.jpg"></a>
   </a>
 </p>
 
@@ -25,7 +25,7 @@ Once you have Ruby installed, continue with the following steps in Command Promp
 
 4. You should see a new file named `ruby.rb` in your project folder. Edit it using an editor of your choice.
 
-5. To setup your username, password and endpoint you would like to use, change the according line in within punctuation marks ('').
+5. To setup your username, password and endpoint you would like to use, change the according line within punctuation marks ('').
 
 <img src="https://i.imgur.com/aHRRPlH.png" alt="smartproxy ruby proxy username password authentication">
 
