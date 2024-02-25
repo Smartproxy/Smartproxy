@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://smartproxy.com/"><img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="Smartproxy logo" width="200" height="50"></a>
+    <a href="https://smartproxy.com/"><img src="https://snipboard.io/3IyORg.jpg"></a>
   </a>
 </p>
 
@@ -27,7 +27,7 @@ For SOCKS5 `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/
 
 4. You should see a new file named `node.js` in your project folder. Edit it using an editor of your choice.
 
-5. To setup your username, password and endpoint you would like to use, change the according lines in within punctuation marks ('').
+5. To setup your username, password and endpoint you would like to use, change the according lines within punctuation marks ('').
 
 <img src="https://i.imgur.com/QjJXrJe.png" alt="smartproxy node.js proxy username password authentication">
 
