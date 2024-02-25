@@ -39,13 +39,19 @@ curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/java/java.ja
 
 To configure the proxy, simply change the arrow marked lines in the code:
 
-<img src="https://i.imgur.com/JVJTTrm.png" alt="smartproxy java proxy username password authentication">
+<img src="https://i.imgur.com/1LKiH1K.png" alt="smartproxy java proxy username password authentication">
 
 ### Usage
 
 If everything is done correctly, after running the code, you will see an IP address printed in the Console.
 
 <img src="https://i.imgur.com/CS80lMb.png">
+
+As a note, if you are targeting HTTPS, in some setups the Basic Authentication scheme may not work (error: "HTTP/1.1 407 Proxy Authentication Required"). You could resolve this issue by proxying HTTP, changing the authentication scheme of the proxy to Digest Authentication, or disabling Basic Authentication for HTTPS tunneling by setting the system property to "" (empty) when running the code:
+
+```
+java -Djdk.http.auth.tunneling.disabledSchemes="" java.java
+```
 
 ## Need help?
 Email - sales@smartproxy.com
