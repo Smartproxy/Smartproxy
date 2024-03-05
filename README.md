@@ -1,6 +1,5 @@
 <p align="center">
-
-    <a ></a> href="https://dashboard.smartproxy.com/?page=residential-proxies&utm_source=socialorganic&utm_medium=social&utm_campaign=resi_trial_GITHUB"><img src="[https://imgur.com/opsHIEZ])"
+<a href="https://dashboard.smartproxy.com/?page=residential-proxies&utm_source=socialorganic&utm_medium=social&utm_campaign=resi_trial_GITHUB"><img src="https://i.imgur.com/opsHIEZ.png"</a>
 </p>
 
 <h2 align="center">
