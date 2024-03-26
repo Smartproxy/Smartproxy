@@ -45,4 +45,4 @@ Big thanks to [@moeryomenko](https://github.com/moeryomenko) for submitting this
 ## Need help?
 Email - sales@smartproxy.com
 
-<a href="https://smartproxy.com">Live chat 24/7</a>
+<a href="https://direct.lc.chat/12092754/">Live chat 24/7</a>
