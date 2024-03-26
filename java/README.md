@@ -3,51 +3,55 @@
   </a>
 </p>
 
-### Disclaimer
+<p align="center">
+    <a href="https://github.com/Smartproxy/Smartproxy"> :house: Main Repository :house: </a>
+</p>
 
-To continue further development with Java, make sure to read their [documentation](https://docs.oracle.com/en/java/javase/12/)
+## Disclaimer
 
-### Prerequisites
+To continue further development with Java, make sure to read their [documentation](https://docs.oracle.com/en/java/javase/12/).
 
+## Prerequisites
+To run the following code example, you'll need Java, the Java SE Runtime Environment (JRE) and an IDE set up on your machine:
 - [Java](https://www.java.com/en/)
-- [Java SE Runtime Environment 8](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)
+- [Java SE Runtime Environment 8](https://www.oracle.com/java/technologies/downloads/#java8)
+- [Eclipse](https://eclipseide.org/)
 
-### Installation
+You should also have a [Smartproxy account](https://dashboard.smartproxy.com/register) with access to the [dashboard](https://dashboard.smartproxy.com/residential-proxies/proxy-setup) to get your credentials and endpoint information.
 
-This particular code was built with [Eclipse](https://www.eclipse.org/) which will be used to build and launch the application.
+## Installation
 
-If you feel like using something else or executing the script with `javac` command, you may need to install [JAVA JRE](https://www.oracle.com/technetwork/java/javase/downloads/server-jre8-downloads-2133154.html).
+This particular code was built using [Eclipse](https://www.eclipse.org/).
 
-Once you have all the prerequisites ready, create your project folder:
+If you choose to run the code using a different method or want to execute the script with the `javac` command, you may need to install the [Server JRE](https://www.oracle.com/java/technologies/downloads/#java8).
 
+1. Create a project folder by running the following command in your Terminal tool:
 ```
 mkdir java_example
 ```
-When project directory is setup, you can now download our example code for Java.
-
-1. Open Terminal/Command Prompt window.
-2. Navigate to the main directory of your project folder using `cd java_example`
-3. Download our code using the following command:
+2. Navigate to the main directory of your project folder using `cd java_example`.
+3. Copy the code directly from [here](https://github.com/Smartproxy/Smartproxy/blob/master/java/java.java), or execute the following command to download the proxy setup example file:
 ```
 curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/java/java.java > java.java
 ```
 <img src="https://i.imgur.com/4NpvtzU.png" alt="curl smartproxy java code sample">
 
-4. You should now see your project folder populated with *java.java* file.
+4. You should see a new file named `java.java` in your project folder. Open it using an editor of your choice.
 
-### Configuration
 
-To configure the proxy, simply change the arrow marked lines in the code:
+## Configuration
+
+To run this Java example, set your username, password, and endpoint information you'd like to use and enter them in the following sections of the code:
 
 <img src="https://i.imgur.com/1LKiH1K.png" alt="smartproxy java proxy username password authentication">
 
-### Usage
+## Usage
 
-If everything is done correctly, after running the code, you will see an IP address printed in the Console.
+You should see an IP address in the console window if everything was set up correctly:
 
 <img src="https://i.imgur.com/CS80lMb.png">
 
-As a note, if you are targeting HTTPS, in some setups the Basic Authentication scheme may not work (error: "HTTP/1.1 407 Proxy Authentication Required"). You could resolve this issue by proxying HTTP, changing the authentication scheme of the proxy to Digest Authentication, or disabling Basic Authentication for HTTPS tunneling by setting the system property to "" (empty) when running the code:
+**Note:** If you're targeting HTTPS, the Basic Authentication scheme in some setups may not work (*error: "HTTP/1.1 407 Proxy Authentication Required"*). You can solve this issue by proxying HTTP, changing the authentication scheme of the proxy to Digest Authentication, or disabling Basic Authentication for HTTPS tunneling by setting the system property to *""* (blank) when running the code:
 
 ```
 java -Djdk.http.auth.tunneling.disabledSchemes="" java.java
@@ -55,5 +59,5 @@ java -Djdk.http.auth.tunneling.disabledSchemes="" java.java
 
 ## Need help?
 Email - sales@smartproxy.com
-<br><a href="https://smartproxy.com">Live chat 24/7</a>
 
+<a href="https://smartproxy.com">Live chat 24/7</a>
