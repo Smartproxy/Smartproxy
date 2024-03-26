@@ -22,7 +22,7 @@ Once you have Python installed, continue with the following steps:
 1. Open the Terminal/Command Prompt.
 2. Create your project directory using the `mkdir python_example` command.
 3. Navigate to your project folder using the `cd python_example` command.
-4. After that, execute the following command to download the proxy setup example file:
+4. Execute the following command to download the proxy setup example file:
 
 HTTP(s):
 `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/python/python.py > python.py`
