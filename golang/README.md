@@ -20,7 +20,7 @@ You should also have a [Smartproxy account](https://dashboard.smartproxy.com/reg
 1. Create a directory for your project.
 2. Open the directory using a Terminal tool utilizing the `cd` command.
 3. Copy the code directly from [here](https://github.com/Smartproxy/Smartproxy/blob/master/golang/golang.go), or execute the following command to download the proxy setup example file:
-4. 
+ 
 `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/golang/golang.go > golang.go`
 
 <img src="https://i.imgur.com/yZunHb6.png" alt="curl smartproxy golang code sample">
