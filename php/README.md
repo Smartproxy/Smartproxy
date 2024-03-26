@@ -3,41 +3,53 @@
   </a>
 </p>
 
-### Disclaimer
+<p align="center">
+    <a href="https://github.com/Smartproxy/Smartproxy"> :house: Main Repository :house: </a>
+</p>
 
-The provided example code is only to show basic authentication through a proxy while sending requests with PHP. If you want to continue development with this tool we highly recommend reading their [documentation](https://www.php.net/manual/en/).
+## Disclaimer
 
-### Prerequisites
+The example code only shows basic authentication through a proxy while sending requests with PHP. If you want to continue further development, we highly recommend reading their [documentation](https://www.php.net/manual/en/).
 
+## Prerequisites
+Install and set up the PHP programming language on your machine. If you don't want to use the [default built-in HTTP server](https://www.php.net/manual/en/features.commandline.webserver.php), you'll also need to install one, such as Apache.
 * [PHP](https://www.php.net/manual/en/install.php)
+* [Apache](https://httpd.apache.org/) (optional)
 
-### Installation
+You should also have a [Smartproxy account](https://dashboard.smartproxy.com/register) with access to the [dashboard](https://dashboard.smartproxy.com/residential-proxies/proxy-setup) to get your credentials and endpoint information.
 
-1. Once you have your project directory ready for development with PHP, open it using Terminal/Command prompt utilizing `cd` command.
-2. After that, execute the following command to download our proxy setup example file:
+## Installation
 
-For HTTP(S) `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/php/php.php > php.php` <br>
-For SOCKS5 `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/php/php.php > phpsocks5h.php`
+1. Create a project directory.
+2. Open the directory using the Terminal/Command prompt using the `cd directory_name` command.
+3. Execute the following command to download the proxy setup example file:
+
+HTTP(s):
+`curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/php/php.php > php.php`
+
+SOCKS5:
+`curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/php/php.php > phpsocks5h.php`
 
 <img src="https://i.imgur.com/p0Vaxgu.png" alt="curl smartproxy php code sample">
 
-3. You should see a new file named php.php in your project folder. Edit it using an editor of your choice.
+4. You should see a new file named *php.php* in your project folder. Open it using an editor of your choice.
 
-4. To setup your username, password and endpoint you would like to use, change the according line within punctuation marks ('').
+5. To run this example, set your username, password, and endpoint information you'd like to use and enter them in the following sections of the code:
 
 <img src="https://i.imgur.com/sVu5KPa.png" alt="smartproxy php proxy username password authentication">
 
-### Usage
+## Usage
 
-To run the following example you will need a HTTP Server.
+To run this example code, you'll need to set up your HTTP server. 
 
-Once you have it setup you can access your file with the path it has been stored to on your server. For example, `http://localhost/php.php`
+Once you have it set up, you can access the file with the path it has been stored in your server. For example, `http://localhost/php.php`
 
-If you did everything correctly, you should see an IP appearing from our proxy server once you open the website.
+You should see an IP address in the console window if everything was set up correctly:
 
 <img src="https://i.imgur.com/tt7naVL.png" alt="smartproxy successful php connection">
 
 ## Need help?
 Email - sales@smartproxy.com
-<br><a href="https://smartproxy.com">Live chat 24/7</a>
+
+<a href="https://direct.lc.chat/12092754/">Live chat 24/7</a>
 
