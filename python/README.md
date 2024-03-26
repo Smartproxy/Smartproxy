@@ -46,4 +46,4 @@ You should see an IP address in the console window if everything was set up corr
 ## Need help?
 Email - sales@smartproxy.com
 
-<a href="https://direct.lc.chat/12092754/m">Live chat 24/7</a>
+<a href="https://direct.lc.chat/12092754/">Live chat 24/7</a>
