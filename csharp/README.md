@@ -3,38 +3,42 @@
   </a>
 </p>
 
-### Disclaimer
+<p align="center">
+    <a href="https://github.com/Smartproxy/Smartproxy"> :house: Main Repository :house: </a>
+</p>
 
-Please note that this code example is more suited for people who have at least beginner's experience using C#. 
+## Disclaimer
 
-### Prerequisites
+This code example best suits people with at least beginner's experience using the C# programming language.
 
-To run this code you will need a C# compiler:
+## Prerequisites
 
-* [Visual Studio with Visual Basic](https://docs.microsoft.com/en-us/visualstudio/ide/quickstart-visual-basic-console?view=vs-2019)
+To run this code you'll need a C# compiler such as [Visual Studio](https://visualstudio.microsoft.com/). You can follow [this tutorial](https://learn.microsoft.com/en-us/visualstudio/get-started/visual-basic/tutorial-console?view=vs-2022) to create a simple Visual Basic console application.
 
-### Installation
+You should also have a [Smartproxy account](https://dashboard.smartproxy.com/register) with access to the [dashboard](https://dashboard.smartproxy.com/residential-proxies/proxy-setup) to get your credentials and endpoint information.
 
-The following example is built with Visual Studio, you can run it using these steps:
+## Installation
 
-1. Create a new Console Application.
-2. Using a terminal of your choice navigate to the projects directory.
-3. Run the cURL command to download the code or copy it directly from [here](https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/csharp/csharp.cs): 
+The example is built using Visual Studio. You can run it by following these steps:
 
+1. Create a new Console App.
+2. Using a terminal of your choice, navigate to the project's directory.
+3. Copy the code from [here](https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/csharp/csharp.cs) or run this cURL command to download the code: 
 `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/csharp/csharp.cs > csharp.cs`
 
-4. You should see a new file named csharp.cs in your project folder.
+4. You should see a new file named *csharp.cs* in your project folder.
 
-### Usage
+## Usage
 
-To run this C# example, setup your username, password and endpoint you would like to use, change the according lines in within punctuation marks ('').
+To run this C# example, set your username, password, and endpoint information you'd like to use and enter them in the following sections of the code:
 
 <img src="https://i.imgur.com/BIoX2Jd.png" alt="C# proxy username password authentication example">
 
-If you did everything correctly, you should see an IP appearing from our proxy server in the console window.
+You should see an IP address in the console window if everything was set up correctly.
 
 <img src="https://i.imgur.com/wKh9fj7.png">
 
 ## Need help?
 Email - sales@smartproxy.com
-<br><a href="https://smartproxy.com">Live chat 24/7</a>
+
+<a href="https://direct.lc.chat/12092754/">Live chat 24/7</a>
