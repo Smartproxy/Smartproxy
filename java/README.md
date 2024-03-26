@@ -60,4 +60,4 @@ java -Djdk.http.auth.tunneling.disabledSchemes="" java.java
 ## Need help?
 Email - sales@smartproxy.com
 
-<a href="https://smartproxy.com">Live chat 24/7</a>
+<a href="https://direct.lc.chat/12092754/">Live chat 24/7</a>
