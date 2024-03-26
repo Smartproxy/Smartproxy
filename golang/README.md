@@ -26,7 +26,7 @@ You should also have a [Smartproxy account](https://dashboard.smartproxy.com/reg
 
 4. You should see a new file named `golang.go` in your project folder. Open it using an editor of your choice.
 
-5. To run this C# example, set your username, password, and endpoint information you'd like to use and enter them in the following sections of the code:
+5. To run this Go example, set your username, password, and endpoint information you'd like to use and enter them in the following sections of the code:
 
 <img src="https://i.imgur.com/T2KVjPx.png" alt="smartproxy golang proxy username password authentication">
 
