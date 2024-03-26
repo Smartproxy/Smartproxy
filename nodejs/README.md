@@ -34,7 +34,7 @@ SOCKS5:
 
 <img src="https://i.imgur.com/0e5b5vn.png" alt="curl smartproxy node.js code sample">
 
-4. You should see a new file named `node.js` in your project folder. Edit it using an editor of your choice.
+4. You should see a new file named `node.js` in your project folder. Open it using a code editor of your choice.
 
 5. To run this example, set your username, password, and endpoint information you'd like to use and enter them in the following sections of the code:
 <img src="https://i.imgur.com/QjJXrJe.png" alt="smartproxy node.js proxy username password authentication">
