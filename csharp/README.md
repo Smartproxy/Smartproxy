@@ -23,7 +23,8 @@ The example is built using Visual Studio. You can run it by following these step
 
 1. Create a new Console App.
 2. Using a terminal of your choice, navigate to the project's directory.
-3. Copy the code from [here](https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/csharp/csharp.cs) or run this cURL command to download the code: 
+3. Copy the code from [here](https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/csharp/csharp.cs) or run this cURL command to download the code:
+
 `curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/csharp/csharp.cs > csharp.cs`
 
 4. You should see a new file named *csharp.cs* in your project folder.
