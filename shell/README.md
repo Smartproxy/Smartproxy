@@ -37,9 +37,7 @@ To use the shell script file, follow these steps:
 ## Usage
 
 To execute the shell example, simply copy it and run it in your shell.
-You should see the IP details from the target website in the console window if everything was set up correctly:
-
-<img src="https://i.imgur.com/WOgLXZj.png" alt="smartproxy successful connection example">
+You should see the IP details from the target website in the console window if everything was set up correctly.
 
 ## Need help?
 Email - sales@smartproxy.com
