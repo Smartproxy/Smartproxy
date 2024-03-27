@@ -42,7 +42,7 @@ For more information, check out the [quick start guide](https://smartproxy.com/s
  1. [Register for a Smartproxy account](https://dashboard.smartproxy.com/register?coupon=SMARTHUB20&utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink).
  2. [Choose a plan](https://smartproxy.com/proxies/residential-proxies/pricing?utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink).
  3. Make a purchase.
- 4. Access 65M+ residential IPs.
+ 4. Access 55M+ residential IPs.
 <br>
 
 Accepted payment methods:
