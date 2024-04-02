@@ -38,7 +38,7 @@ There are 2 authentication options: **username:password** and **whitelisted IP**
 For more information, check out the [quick start guide](https://smartproxy.com/smartproxy-quick-start-guide?utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink).
 
 ## Getting started
-<br>[<img src="https://i.imgur.com/V2NhawG.png">](https://dashboard.smartproxy.com/register?utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=image)
+<br>![Getting-Started](https://github.com/Smartproxy/Smartproxy/assets/159907476/1ae1b298-d457-4f53-9a01-f425916ac8f4)
  1. [Register for a Smartproxy account](https://dashboard.smartproxy.com/register?coupon=SMARTHUB20&utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink).
  2. [Choose a plan](https://smartproxy.com/proxies/residential-proxies/pricing?utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink).
  3. Make a purchase.
@@ -46,7 +46,7 @@ For more information, check out the [quick start guide](https://smartproxy.com/s
 <br>
 
 Accepted payment methods:
-[<img src="https://i.ibb.co/cY4Xqm0/github-payments.png" alt="Smartproxy accepted payment methods">](https://smartproxy.com/proxies/residential-proxies/pricing?utm_source=github&utm_medium=referral&utm_campaign=repository&utm_content=hyperlink)
+![Payment-Methods](https://github.com/Smartproxy/Smartproxy/assets/159907476/5cbf818a-7872-4284-a5db-7a1f76053473)
 ## Types
 ### Residential
 Residential proxies use real devices based in physical locations worldwide. They act as intermediaries between you and your target and make your scripts look like they're coming from genuine users using regular everyday devices. You can avoid detection, bypass IP blocks or rate limitations, and freely access any website.
@@ -56,6 +56,7 @@ A mobile proxy is an intermediary from real mobile devices connected to any mobi
 
 ## Locations
 Smartproxy offers a wide proxy pool that covers locations worldwide. You can choose IPs from 195+ countries including the UK, US, Germany, India, Canada, Japan, and many more. [Check out the full list here](https://smartproxy.com/proxies/list).
+![Locations](https://github.com/Smartproxy/Smartproxy/assets/159907476/e40090ce-44de-4e5d-93e3-bb3df1f8425d)
 
 
 ## Use cases
