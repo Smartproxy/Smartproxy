@@ -1,13 +1,20 @@
-<?php 
-$username = 'username'; 
-$password = 'password'; 
-$proxy = 'gate.smartproxy.com:7000'; 
-$target = curl_init('https://ip.smartproxy.com/'); 
-curl_setopt($target, CURLOPT_RETURNTRANSFER, 1); 
-curl_setopt($target, CURLOPT_PROXY, $proxy); 
-curl_setopt($target, CURLOPT_PROXYUSERPWD, "$username:$password"); 
-$result = curl_exec($target); 
-curl_close($target); 
-if ($result) 
-echo $result; 
-?> 
+<?php
+
+    $url = 'ip.smartproxy.com/json';
+    $proxy = 'gate.smartproxy.com';
+    $port = 7000;
+    $user = 'username';
+    $psw = 'password';
+
+    $ch = curl_init($url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+
+    curl_setopt($ch, CURLOPT_PROXY, "$proxy:$port");
+    curl_setopt($ch, CURLOPT_PROXYUSERPWD, "$user:$psw");
+    $result = curl_exec($ch);
+    curl_close($ch);
+
+    if ($result) {
+    echo $result . PHP_EOL;
+    }
+?>
