@@ -8,7 +8,7 @@ public class ProxyTest
    { 
       InetSocketAddress proxyAddress = new InetSocketAddress("gate.smartproxy.com", 7000); // Set proxy IP/port. 
       Proxy proxy = new Proxy(Proxy.Type.HTTP, proxyAddress); 
-      URL url = new URI("https://ip.smartproxy.com/").toURL(); //enter target URL 
+      URL url = new URI("https://ip.smartproxy.com/ip").toURL(); //enter target URL 
       Authenticator authenticator = new Authenticator() { 
          public PasswordAuthentication getPasswordAuthentication() { 
             return (new PasswordAuthentication("username","password".toCharArray())); //enter credentials 
