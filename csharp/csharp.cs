@@ -17,14 +17,14 @@ class Program
 
     static async void DownloadPageAsync()
     {
-        string page = "https://ip.smartproxy.com/";
+        string page = "https://ip.smartproxy.com/ip";
 
         var proxy = new WebProxy("gate.smartproxy.com:7000")
         {
             UseDefaultCredentials = false,
 
             Credentials = new NetworkCredential(
-                userName: "username",
+                username: "username",
                 password: "password")
         };
 
