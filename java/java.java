@@ -1,30 +1,54 @@
-import java.net.*; 
-import java.io.*; 
-import java.util.Scanner; 
+package org.example;
 
-public class ProxyTest 
-{ 
-   public static void main(String[] args) throws Exception 
-   { 
-      InetSocketAddress proxyAddress = new InetSocketAddress("gate.smartproxy.com", 7000); // Set proxy IP/port. 
-      Proxy proxy = new Proxy(Proxy.Type.HTTP, proxyAddress); 
-      URL url = new URI("https://ip.smartproxy.com/ip").toURL(); //enter target URL 
-      Authenticator authenticator = new Authenticator() { 
-         public PasswordAuthentication getPasswordAuthentication() { 
-            return (new PasswordAuthentication("username","password".toCharArray())); //enter credentials 
-         } 
-      }; 
+import javax.net.ssl.HttpsURLConnection;
+import javax.net.ssl.SSLContext;
+import javax.net.ssl.TrustManager;
+import javax.net.ssl.X509TrustManager;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.InetSocketAddress;
+import java.net.Proxy;
+import java.net.URL;
+import java.util.Base64;
 
+public class Main implements Runnable {
+    public static final String USERNAME = "SP_user";
+    public static final String PASSWORD = "SP_pass";
 
-      Authenticator.setDefault(authenticator); 
-   URLConnection urlConnection = url.openConnection(proxy); 
+    public void run() {
+        try {
+            Proxy proxy = new Proxy(Proxy.Type.HTTP, new InetSocketAddress("gate.smartproxy.com", 7000));
+            URL url = new URL("http://ip.smartproxy.com/json");
+            HttpURLConnection connection = (HttpURLConnection) url.openConnection(proxy);
 
+            // Encode credentials for Proxy-Authorization
+            String encodedCredentials = Base64.getEncoder().encodeToString((USERNAME + ":" + PASSWORD).getBytes());
+            connection.setRequestProperty("Proxy-Authorization", "Basic " + encodedCredentials);
 
-//Scanner to view output 
+            connection.setRequestMethod("GET");
 
-Scanner scanner = new Scanner(urlConnection.getInputStream()); 
-   System.out.println(scanner.nextLine()); 
-   scanner.close(); 
+            // Read the response
+            BufferedReader in = new BufferedReader(new InputStreamReader(connection.getInputStream()));
+            String inputLine;
+            StringBuilder response = new StringBuilder();
 
-   } 
+            while ((inputLine = in.readLine()) != null) {
+                response.append(inputLine);
+            }
+            in.close();
+
+            // Print the response
+            System.out.println(response.toString());
+
+        } catch (Exception exception) {
+            exception.printStackTrace();
+            System.exit(1);
+        }
+        System.exit(0);
+    }
+
+    public static void main(String[] args) {
+        new Thread(new Main()).start();
+    }
 }
