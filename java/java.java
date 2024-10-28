@@ -1,3 +1,5 @@
+// I compiled the code using Maven with: mvn clean compile
+// Then ran it with: exec:java -Dexec.mainClass="example.Example"
 package example;
 
 import java.io.*;
